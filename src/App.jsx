@@ -9,7 +9,7 @@ const App = () => {
   return (
     <>
       <Menu style={{ borderRadius: 0, background: '' }}>
-        <Menu.Item>
+        <Menu.Item data-cy="header">
           <Image src={logo} size='tiny' centered />
         </Menu.Item>
         <Menu.Menu position='right'>
