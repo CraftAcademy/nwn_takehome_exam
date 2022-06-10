@@ -1,8 +1,8 @@
-import { createStore } from 'redux'
+import initialState from "./initialState";
+import {legacy_createStore} from 'redux'
 import rootReducer from '../reducers/rootReducer'
 
-const configureStore = () => {
-  return createStore(rootReducer)
-}
+const store = legacy_createStore(rootReducer, initialState)
 
-export default configureStore
+
+export default store
