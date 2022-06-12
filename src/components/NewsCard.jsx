@@ -4,6 +4,8 @@ import { Header, Card } from 'semantic-ui-react'
 const NewsCard = ({ article }) => {
   return (
     <Card
+      data-cy={`article-${article.id}`}
+      key={article.index}
       image={article.urlToImage}
       header={article.title}
       meta={`By: ${article.author} at ${article.source.name}`}
