@@ -1,5 +1,5 @@
 import initialState from "../store/initialState";
-const rootReducer = (state= initialState,action) => {
+const rootReducer = (state = initialState, action) => {
 
   switch (action.type) {
     case "SET_NEWS_FEED":
@@ -8,8 +8,8 @@ const rootReducer = (state= initialState,action) => {
         newsFeed: action.payload
       }
 
-    default:
-      return state
+      default:
+        return state
   }
 
 }

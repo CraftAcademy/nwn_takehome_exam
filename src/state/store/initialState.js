@@ -1,5 +1,5 @@
 const initialState = {
-  articles: []
+  newsFeed: [],
 };
 
 export default initialState;
