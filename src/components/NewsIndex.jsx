@@ -4,17 +4,23 @@ import NewsService from "../modules/NewsService";
 //import NewsCard from "./NewsCard";
 
 const NewsIndex = () => {
-  const { newsFeed } = useSelector((state) => state);
+  const { articles } = useSelector((state) => state);
 
   useEffect(() => {
     NewsService.index();
   }, []);
 
-  return (
-    <>
-      
-    </>
-  );
+  const newsList = articles.map((article) => {
+    return (
+      <li>
+        <h3>{article.title}</h3>
+        <h4>{article.description}</h4>
+        <br/>
+      </li>
+    );
+  });
+
+  return <ul data-cy="news-list">{newsList}</ul>;
 };
 
 export default NewsIndex;

@@ -4,7 +4,7 @@ const rootReducer = (state, action) => {
     case "SET_NEWS_FEED":
       return {
         ...state,
-        newsFeed: action.payload
+        articles: action.payload
       }
 
     default:

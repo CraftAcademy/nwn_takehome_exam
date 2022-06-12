@@ -10,9 +10,7 @@ describe("user can see collection of top news headlines ", () => {
     cy.wait("@getNewsFeed").its("request.method").should("eq", "GET");
   });
   it("is expected to display a collection of 20 articles", () => {
-    cy.get("[data-cy=articles-list]")
-      .children()
-      .first()
+    cy.get("[data-cy=news-list]")
       .children()
       .should("have.length", 20);
   });
