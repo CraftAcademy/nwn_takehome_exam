@@ -13,11 +13,7 @@ const NewsIndex = () => {
 
   const newsList = articles.map((article) => {
     return (
-      // <li>
-      //   <h3>{article.title}</h3>
-      //   <h4>{article.description}</h4>
-      //   <br />
-      // </li>
+     
       <NewsCard article={ article}/>
     );
   });
@@ -31,7 +27,6 @@ const NewsIndex = () => {
     </>
   );
   
-  //<ul data-cy="news-list">{newsList}</ul>;
 };
 
 export default NewsIndex;
