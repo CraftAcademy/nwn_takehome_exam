@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 4323,
+  "totalResults": 16204,
   "articles": [
       {
           "source": {
-              "id": "engadget",
-              "name": "Engadget"
+              "id": null,
+              "name": "Terra.com.br"
           },
-          "author": "Engadget",
-          "title": "Apple TV 4K is at a new all-time low of $130 on Amazon",
-          "description": "The Apple TV 4K has never been cheaper on Amazon. The 32GB version of the device is now available for $130, or $49 less than its retail price of $179. The 64GB is at $150, also $50 lower than retail. That's the lowest price we've ever seen for Apple's premium…",
-          "url": "https://www.engadget.com/apple-tv-4k-32gb-64gb-amazon-deal-141701675.html",
-          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/e5549830-bfbe-11eb-bd29-331b18490ec1",
-          "publishedAt": "2022-06-12T14:17:01Z",
-          "content": "The Apple TV 4K has never been cheaper on Amazon. The 32GB version of the device is now available for $130, or $49 less than its retail price of $179. The 64GB is at $150, also $50 lower than retail.… [+1571 chars]"
-      },
-      {
-          "source": {
-              "id": "engadget",
-              "name": "Engadget"
-          },
-          "author": "Mariella Moon",
-          "title": "UK regulator plans to launch probe into Google's and Apple's mobile duopoly",
-          "description": "The UK's Competition and Markets Authority (CMA) has concluded that Google and Apple \"hold all the cards\" when it comes to mobile phones a year after taking a closer look at their \"duopoly.\" It's now consulting on the launch of a market investigation into the…",
-          "url": "https://www.engadget.com/uk-regulator-probe-google-apple-mobile-duopoly-130013629.html",
-          "urlToImage": "https://s.yimg.com/os/creatr-images/2020-02/c22eb980-521e-11ea-bb87-d7f01043e879",
-          "publishedAt": "2022-06-10T13:00:13Z",
-          "content": "The UK's Competition and Markets Authority (CMA) has concluded that Google and Apple \"hold all the cards\" when it comes to mobile phones a year after taking a closer look at their \"duopoly.\" It's now… [+1775 chars]"
-      },
-      {
-          "source": {
-              "id": "engadget",
-              "name": "Engadget"
-          },
-          "author": "Valentina Palladino",
-          "title": "The Beats Fit Pro are back on sale for $180",
-          "description": "If you missed the previous sale in April, you have another chance to pick up the Beats Fit Pro wireless earbuds for less right now. Amazon has them for $180, which is 10 percent off and one of the best prices we've seen. We saw the buds drop to around $153 in…",
-          "url": "https://www.engadget.com/the-beats-fit-pro-are-back-on-sale-for-180-124438229.html",
-          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/fafc5220-3b08-11ec-ad9d-4be2ad921dcb",
-          "publishedAt": "2022-06-10T12:44:38Z",
-          "content": "If you missed the previous sale in April, you have another chance to pick up the Beats Fit Pro wireless earbuds for less right now. Amazon has them for $180, which is 10 percent off and one of the be… [+1994 chars]"
-      },
-      {
-          "source": {
-              "id": "engadget",
-              "name": "Engadget"
-          },
-          "author": "Mariella Moon",
-          "title": "Meta is reportedly discontinuing Portal devices for consumers",
-          "description": "Meta will no longer release any more Portal devices for consumers, according to The Information and Variety. The company is reportedly repositioning the smart display and home video line as a business product and discontinuing current consumer versions. Varie…",
-          "url": "https://www.engadget.com/meta-discontinuing-portal-devices-consumers-050424665.html",
-          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/e7367940-e874-11ec-a6dd-ba2969bd00f5",
-          "publishedAt": "2022-06-10T05:04:24Z",
-          "content": "Meta will no longer release any more Portal devices for consumers, according to The Information and Variety. The company is reportedly repositioning the smart display and home video line as a busines… [+1405 chars]"
-      },
-      {
-          "source": {
-              "id": "wired",
-              "name": "Wired"
-          },
-          "author": "Medea Giordano",
-          "title": "25 Great Deals on Smartwatches, Grills, Bags, and Tablets",
-          "description": "Need a new hobby like grilling or photography? Want to get Dad a new smartwatch for Father's Day? These sales might help.",
-          "url": "https://www.wired.com/story/weekend-deals-june-11-2022/",
-          "urlToImage": "https://media.wired.com/photos/5e7d134c8283f9000a415198/191:100/w_1280,c_limit/Gear-Polaroid-Now-SOURCE-Polaroid.jpg",
-          "publishedAt": "2022-06-11T11:00:00Z",
-          "content": "The weather is getting warmer in many parts of the world, so if you like being in the sun, you may be looking for something to do outside. We've found deals on grills, smartwatches, cameras, portable… [+13515 chars]"
-      },
-      {
-          "source": {
-              "id": "wired",
-              "name": "Wired"
-          },
-          "author": "Steven Levy",
-          "title": "Big Tech Has Become a Creature of the Swamp",
-          "description": "Plus: Time travel on the blockchain, an update on apocalyptic horsemen, and '90s-era squabbles over internet regulation.",
-          "url": "https://www.wired.com/story/big-tech-has-become-a-creature-of-the-swamp/",
-          "urlToImage": "https://media.wired.com/photos/62a2869d54f003da9e0fdd5d/191:100/w_1280,c_limit/US-Capitol-Tech-Lobbying-Money-Business-1241198116.jpg",
-          "publishedAt": "2022-06-10T13:00:00Z",
-          "content": "Last October, on the day whistleblower Frances Haugen testified before her committee, Senator Amy Klobuchar gave a candid, if depressing, summation of the effect of all that DC spending: We have not … [+2882 chars]"
+          "author": "Reuters",
+          "title": "Tesla está contratando de 500 a 600 funcionários por mês em planta na Alemanha, diz ministro",
+          "description": "A Tesla está contratando de 500 a 600 pessoas por mês em sua fábrica de Gruenheide e está trabalhando em parceria com a agência nacional de empregos para...",
+          "url": "https://www.terra.com.br/economia/tesla-esta-contratando-de-500-a-600-funcionarios-por-mes-em-planta-na-alemanha-diz-ministro,24fa46d554944faf93f2db2f4b732035jh1hsbh9.html",
+          "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+          "publishedAt": "2022-06-13T13:18:41Z",
+          "content": "A Tesla está contratando de 500 a 600 pessoas por mês em sua fábrica de Gruenheide e está trabalhando em parceria com a agência nacional de empregos para recrutar trabalhadores dispensados das montad… [+1026 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "Gizmodo.com"
+              "name": "MarketWatch"
           },
-          "author": "Florence Ion",
-          "title": "The New iOS 16 Features that Android Had First",
-          "description": "They say imitation is the sincerest form of flattery. But when it comes to Apple’s iOS and Google’s Android offering the same features, it’s a tale of two platforms attempting to keep up with one another. While Apple and Google may have similar abilities with…",
-          "url": "https://gizmodo.com/ios-16-features-android-first-always-on-display-lock-sc-1849042695",
-          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3ee3e7a47c74f8f4d2b1f33be6bd244d.jpg",
-          "publishedAt": "2022-06-10T14:30:00Z",
-          "content": "You can still track your walks without the Apple Watch in tow, but iOS 16 will also let you track other activities using the Fitness app and the iPhones built-in motion sensors. The iPhone can track … [+528 chars]"
+          "author": "Emily Bary",
+          "title": "The Ratings Game: Tesla’s ‘strong competitive advantage’ earns stock an upgrade",
+          "description": "Tesla Inc. is set up well in both the short term and the long run, according to an RBC Capital Markets analyst, who just turned bullish on the stock amid its \"favorable\" positioning.",
+          "url": "https://www.marketwatch.com/story/teslas-strong-competitive-advantage-earns-stock-an-upgrade-11655125157",
+          "urlToImage": "https://images.mktw.net/im-538680/social",
+          "publishedAt": "2022-06-13T13:09:14Z",
+          "content": "Tesla Inc. is set up well in both the short term and the long run, according to an RBC Capital Markets analyst, who just turned bullish on the stock amid its favorable positioning.RBCs Joseph Spak up… [+2909 chars]"
       },
       {
           "source": {
-              "id": "bbc-news",
-              "name": "BBC News"
+              "id": null,
+              "name": "Yahoo Entertainment"
           },
-          "author": "https://www.facebook.com/bbcnews",
-          "title": "Russia unveils 'tasty' McDonald's substitute",
-          "description": "The fast food outlets are being rebranded as \"Tasty and that's it\" after the burger giant pulled out.",
-          "url": "https://www.bbc.co.uk/news/world-europe-61774475",
-          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/65DC/production/_125367062_mcdonewokreut12jun22.jpg",
-          "publishedAt": "2022-06-12T09:47:07Z",
-          "content": "By Steve RosenbergRussia Editor, Moscow\r\nIt's a Russian revamp of an American icon. \r\nFast food giant McDonald's pulled out of Russia in protest at the invasion of Ukraine and sold its restaurants he… [+2037 chars]"
+          "author": "Will Canny",
+          "title": "Silvergate Capital Could Benefit From Institutional Crypto Adoption, Wells Fargo Says",
+          "description": "The Wall Street bank initiated coverage of the stock with an \"overweight\" rating and a $120 price target.",
+          "url": "https://finance.yahoo.com/news/silvergate-capital-could-benefit-institutional-130813217.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/W6netTBPnKLNy0YOWDA6rA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/21947ddb2c752589f3af40942e9d7ae6",
+          "publishedAt": "2022-06-13T13:08:13Z",
+          "content": "Don't miss CoinDesk's Consensus 2022, the must-attend crypto &amp; blockchain festival experience of the year in Austin, TX this June 9-12.\r\nOngoing institutional adoption of cryptocurrencies and pro… [+2210 chars]"
       },
       {
           "source": {
-              "id": "reuters",
-              "name": "Reuters"
+              "id": null,
+              "name": "Forbes"
+          },
+          "author": "David Trainer, Contributor, \n David Trainer, Contributor\n https://www.forbes.com/sites/greatspeculations/people/davidtrainer/",
+          "title": "Operating Earnings Growth Slowing, But Still Overstated After 1Q22",
+          "description": "Operating Earnings calculated by S&P Global (SPGI) for the S&P 500 overstate Core Earnings and stocks are more expensive than they appear.",
+          "url": "https://www.forbes.com/sites/greatspeculations/2022/06/13/operating-earnings-growth-slowing-but-still-overstated-after-1q22/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve//62a3a02747763718fb328d2c/0x0.jpg?format=jpg&width=1200",
+          "publishedAt": "2022-06-13T13:04:17Z",
+          "content": "Finance and Investment concept.Money management and Financial chart.blur focus\r\ngetty\r\nOperating Earnings calculated by S&amp;P Global (SPGI) for the S&amp;P 500 overstate Core Earnings[1] through 1Q… [+8817 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "TheStreet"
+          },
+          "author": "Towleroad",
+          "title": "Elon Musk Takes Sides in the Gender Identity Debate",
+          "description": "Published by The Street By Luc Olinga The CEO of Tesla intervenes more and more in all societal debates and does not hesitate to take controversial positions. Elon Musk loves lighting fires. The CEO of Tesla (TSLA) – Get Tesla Inc. Report thus uses his Twitte…",
+          "url": "https://www.thestreet.com/technology/elon-musk-takes-sides-in-the-gender-identity-debate",
+          "urlToImage": "https://www.towleroad.com/wp-content/uploads/2022/06/585490-origin_1.jpg",
+          "publishedAt": "2022-06-13T13:03:12Z",
+          "content": "By Luc Olinga The CEO of Tesla intervenes more and more in all societal debates and does not hesitate to take controversial positions. Elon Musk loves lighting fires. The CEO of Tesla (TSLA) – Get Te… [+412 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Xataka.com"
+          },
+          "author": "Javier Pastor",
+          "title": "Bitcoin se hunde por enésima vez y baja a niveles de diciembre de 2020: si economía va mal, las cripto no se libran",
+          "description": "Qué tiempos aquellos en los que el bitcoin alcanzó los 68.000 dólares. Parece que fue hace mucho, pero qué va: fue en noviembre de 2021. Han pasado poco más de seis meses, y hoy bitcoin está por debajo de los 24.000 dólares. La caída que ya era enorme hace un…",
+          "url": "https://www.xataka.com/criptomonedas/bitcoin-se-pega-su-enesimo-tortazo-baja-a-niveles-diciembre-2020-economia-va-mal-no-se-libran-criptos",
+          "urlToImage": "https://i.blogs.es/fa61a9/captura-de-pantalla-2022-06-13-a-las-13.22.21/840_560.jpeg",
+          "publishedAt": "2022-06-13T13:00:43Z",
+          "content": "Qué tiempos aquellos en los que el bitcoin alcanzó los 68.000 dólares. Parece que fue hace mucho, pero qué va: fue en noviembre de 2021. Han pasado poco más de seis meses, y hoy bitcoin está por deba… [+3180 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Marketingdirecto.com"
+          },
+          "author": "Berta Jiménez",
+          "title": "Apple, Microsoft y Saudi Aramco, las tres empresas más valiosas del mundo",
+          "description": "Apple, Microsoft y la petrolera Saudi Aramco lideran el ‘Global Top 100’ elaborado por PwC, un ranking en el que la mayoría de empresas están radicadas en EE.UU.\nLa entrada Apple, Microsoft y Saudi Aramco, las tres empresas más valiosas del mundo se publicó p…",
+          "url": "https://www.marketingdirecto.com/marketing-general/publicidad/empresas-mas-valiosas-mundo-ranking-pwc",
+          "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/06/Apple-logo.jpg",
+          "publishedAt": "2022-06-13T13:00:00Z",
+          "content": "Apple, Microsoft y la petrolera Saudi Aramco lideran el Global Top 100 elaborado por PwC, un ranking en el que la mayoría de empresas están radicadas en EE.UU.Apple es la marca con mayor valor del mu… [+2254 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Macdailynews.com"
+          },
+          "author": "MacDailyNews",
+          "title": "Apple, Microsoft, Amazon, other tech stocks tumble into the red",
+          "description": "Big tech names such as Apple, Microsoft, Amazon, Tesla, and Nvidia were deep in the red ahead of Monday’s market open…\nThe post Apple, Microsoft, Amazon, other tech stocks tumble into the red appeared first on MacDailyNews.",
+          "url": "https://macdailynews.com/2022/06/13/apple-microsoft-amazon-other-tech-stocks-tumble-into-the-red/",
+          "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2020/07/200721_stock_chart.png",
+          "publishedAt": "2022-06-13T12:56:28Z",
+          "content": "Big tech names such as Apple, Microsoft, Amazon, Tesla, and Nvidia were deep in the red ahead of Mondays market open.\r\nLina Saigol for Barron’s:\r\nShares of Tesla fell 2.7% in premarket trading, while… [+839 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "U.Today"
+          },
+          "author": "U.Today",
+          "title": "DOGE Coin Crashes 92% from Elon Musk-Driven ATH",
+          "description": "Dogecoin has declined even lower, marking 92% drop from last year's historic peak",
+          "url": "https://u.today/doge-coin-crashes-92-from-elon-musk-driven-ath",
+          "urlToImage": "https://u.today/sites/default/files/styles/1200x900/public/2022-06/20586.jpg",
+          "publishedAt": "2022-06-13T12:53:00Z",
+          "content": "Disclaimer: The opinion expressed here is not investment advice it is provided for informational purposes only. It does not necessarily reflect the opinion of U.Today. Every investment and all tradin… [+2303 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Dcforecasts.com"
+          },
+          "author": "Stefan",
+          "title": "DOGE Is Down By 90% Since Elon Musk’s SNL Show: Analysis",
+          "description": "DOGE is down by 90% since Elon Musk’s appearance on the SNL show but the Tesla founder still invokes it on social media as we can see in our Dogecoin news. Last may, DOGE’s price approached a new high of $0.72 and the crypto’s devoted fan base hoped that Elon…",
+          "url": "https://www.dcforecasts.com/dogecoin-news/doge-is-down-by-90-since-elon-musks-snl-show-analysis/",
+          "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2021/03/SNL.png",
+          "publishedAt": "2022-06-13T12:46:05Z",
+          "content": "DOGE is down by 90% since Elon Musks appearance on the SNL show but the Tesla founder still invokes it on social media as we can see in our Dogecoin news.\r\nLast may, DOGEs price approached a new high… [+2193 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "24/7 Wall St."
+          },
+          "author": "247lee",
+          "title": "Monday’s Top Analyst Upgrades and Downgrades: Electronic Arts, Enterprise Products Partners, GoodRx, Netflix, Spirit Airlines, Take-Two Interactive, Target, Tesla and More",
+          "description": "Monday's top analyst upgrades and downgrades included Docusign, Electronic Arts, Enterprise Products Partners, GoodRx, Netflix, Spirit Airlines, Take-Two Interactive Software, Target, Tesla and Vonage.",
+          "url": "https://247wallst.com/investing/2022/06/13/mondays-top-analyst-upgrades-and-downgrades-docusign-electronic-arts-enterprise-products-partners-goodrx-netflix-spirit-airlines-take-two-interactive-software-target-tesla-vonage/",
+          "urlToImage": "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry17-Zay.jpg",
+          "publishedAt": "2022-06-13T12:43:36Z",
+          "content": "The futures were hammered Monday, as investors return from an epic market meltdown last week and look to be in store for more. The May consumer price index number came in red hot at 8.6%. Core inflat… [+2591 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Frandroid"
+          },
+          "author": "Nathan Le Gohlisse",
+          "title": "Conduite autonome : Tesla dépenserait des milliards chez un grand constructeur de smartphones",
+          "description": "Tesla aurait signé avec Samsung un contrat de plusieurs milliards pour s’équiper de nouvelles caméras. Elles seront précieuses pour sa technologie de conduite autonome.Samsung est bien parti pour être le fournisseur attitré de Tesla en matière de caméras. Les…",
+          "url": "https://www.frandroid.com/produits-android/automobile/voitures-electriques/1365143_conduite-autonome-tesla-depenserait-des-milliards-chez-un-grand-constructeur-de-smartphones",
+          "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/05/tesla-mode-3-scaled.jpg",
+          "publishedAt": "2022-06-13T12:40:43Z",
+          "content": "Tesla aurait signé avec Samsung un contrat de plusieurs milliards pour séquiper de nouvelles caméras. Elles seront précieuses pour sa technologie de conduite autonome.\r\nTesla Model 3, pour illustrati… [+2645 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Chip.com.tr"
+          },
+          "author": "CHIP Online",
+          "title": "Tesla araçların saniyeler içinde çalınmasına yol açan basit bir hack yöntemi keşfedildi",
+          "description": "Bir araştırmacı, Tesla araçları saniyeler içinde kontrol altına alabilecek bir uygulama geliştirdi.",
+          "url": "https://www.chip.com.tr/haber/tesla-teknolojisi-icin-ilginc-bir-hack-bulundu_151680.html",
+          "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2022/06/12/tesla-teknolojisi-icin-ilginc-bir-hack-bulundu-c1sB.jpg",
+          "publishedAt": "2022-06-13T12:38:04Z",
+          "content": "Tesla araçları da dahil olmak üzere elektrikli araçların hack'lenebilir olduğunu biliyoruz. Ve şimdi yeni bir video, aracınızın yakınında olan usta bir siber suçlunun arabanızın sistemine girip gezin… [+2644 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "axel.metz@futurenet.com (Axel Metz)",
+          "title": "This solar-powered electric car can run for months without charging",
+          "description": "Dutch automotive startup Lightyear has revealed a production-ready version of its solar-powered Lightyear 0.",
+          "url": "https://www.techradar.com/news/this-solar-powered-electric-car-can-run-for-months-without-charging",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/7aKXJwUakbdFnMf9A2mA3M-1200-80.jpg",
+          "publishedAt": "2022-06-13T12:37:30Z",
+          "content": "Dutch automotive startup Lightyear has officially lifted the lid on its “production-ready” Lightyear 0 – a solar-powered electric vehicle (EV) capable of running without charge for up to seven months… [+3671 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Matthew J. Belvedere, Peter Schacknow",
+          "title": "What to watch today: S&P 500 poised to fall back into a bear market",
+          "description": "U.S. stock futures sank Monday after the worst week on Wall Street since January.",
+          "url": "https://www.cnbc.com/2022/06/13/what-to-watch-today-sp-500-poised-to-fall-back-into-a-bear-market.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074427-1654896547616-gettyimages-1402189341-dscf6755_yf8s5e23.jpeg?v=1654896600&w=1920&h=1080",
+          "publishedAt": "2022-06-13T12:31:07Z",
+          "content": "U.S. stock futures sank Monday after the worst week on Wall Street since January. Bond yields soared as investors braced for the Federal Reserve to increase interest rates later this week following F… [+4081 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Overclockers.ru"
+          },
+          "author": "Алексей Сычёв",
+          "title": "Автопроизводитель Geely сможет стать владельцем бизнеса Meizu по выпуску смартфонов",
+          "description": "Заявка китайским антимонопольщикам уже подана.",
+          "url": "https://overclockers.ru/hardnews/show/119222/avtoproizvoditel-geely-smozhet-stat-vladelcem-biznesa-meizu-po-vypusku-smartfonov",
+          "urlToImage": "https://overclockers.ru/st/images/preview/jqImyJncJkCsVQ9G.jpg",
+          "publishedAt": "2022-06-13T12:30:00Z",
+          "content": "Geely (Eric Li) Hubei Xingji Shidai Technology Co Ltd, . Geely 55% . , Reuters, 79% Meizu.\r\n, , Geely Volvo Lotus, Polestar. , Tesla NIO . , Foxconn Vingroup. , , Geely Meizu . 79% Meizu, ."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Macitynet.it"
+          },
+          "author": "Emiliano Contarino",
+          "title": "Tesla chiede una divisione tre contro uno per rendere le sue azioni più accessibili",
+          "description": "Tesla chiede uno Spalti Lock per rendere più accessibile l'acquisto delle sue azioni.\n- su macitynet.it Tesla chiede una divisione tre contro uno per rendere le sue azioni più accessibili",
+          "url": "https://www.macitynet.it/?p=1126401",
+          "urlToImage": "https://www.macitynet.it/wp-content/uploads/2022/06/tesla-generic.jpeg",
+          "publishedAt": "2022-06-13T12:29:27Z",
+          "content": "Tesla sta chiedendo ai suoi azionisti di approvare una divisione azionaria a tre vie per contribuire a rendere le azioni della società più economiche per gli acquirenti.\r\nLa richiesta è inclusa in un… [+2226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Barron's"
+          },
+          "author": "Lina Saigol",
+          "title": "Apple, Microsoft, Amazon, and Other Tech Stocks Tumble",
+          "description": "Ahead of Monday's open, S&P 500 futures dropped 2.4% to 3,804 according to Dow Jones Market Data.",
+          "url": "https://www.barrons.com/articles/apple-microsoft-amazon-tesla-tech-stocks-selloff-51655115570",
+          "urlToImage": "https://images.barrons.com/im-333068/social",
+          "publishedAt": "2022-06-13T12:26:11Z",
+          "content": "Big tech names such as \r\n Tesla,Apple\r\n and \r\n Nvidia,\r\n were deep in the red ahead of Mondays market open. Shares of Tesla (ticker: TSLA) fell 2.7% in premarket trading, while Apple (AAPL) was neari… [+960 chars]"
+      },
+      {
+          "source": {
+              "id": "globo",
+              "name": "Globo"
           },
           "author": null,
-          "title": "Dutch watchdog says Apple to offer other payment methods in dating apps - Reuters",
-          "description": "The Netherlands' antitrust watchdog on Saturday said Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> will allow different payment methods in Dutch dating applications, ending a dispute that resulted in the company bei…",
-          "url": "https://www.reuters.com/technology/dutch-watchdog-says-apple-offer-other-payment-methods-dating-apps-2022-06-11/",
-          "urlToImage": "https://www.reuters.com/resizer/GszRdyQbioTPnr-rZU6NYFDXZow=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JFVFZXPSHFISFJOITVBA2Y6ILU.jpg",
-          "publishedAt": "2022-06-11T13:58:00Z",
-          "content": "June 11 (Reuters) - The Netherlands' antitrust watchdog on Saturday said Apple Inc (AAPL.O) will allow different payment methods in Dutch dating applications, ending a dispute that resulted in the co… [+1655 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Apple's Cook urges U.S. lawmakers to pass federal privacy law - Reuters",
-          "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> Chief Executive Tim Cook on Friday sent a letter to a group of U.S. lawmakers asking them to pass federal privacy legislation, according to a copy of the letter seen by …",
-          "url": "https://www.reuters.com/world/us/apples-cook-urges-us-lawmakers-pass-federal-privacy-law-2022-06-10/",
-          "urlToImage": "https://www.reuters.com/resizer/5JrH22X9RjQ73PMGZpKwk-6NdPQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EP3X2HMUGJKNNHMMJZNTBNX2TM.jpg",
-          "publishedAt": "2022-06-10T16:38:00Z",
-          "content": "June 10 (Reuters) - Apple Inc (AAPL.O) Chief Executive Tim Cook on Friday sent a letter to a group of U.S. lawmakers asking them to pass federal privacy legislation, according to a copy of the letter… [+458 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Co-producer Hamilton says he will not appear in Brad Pitt F1 film - Reuters.com",
-          "description": "Seven-times world champion Lewis Hamilton on Friday said he would not appear in a film starring Brad Pitt based on Formula One that the Mercedes racer is co-producing as he does not want it to flop.",
-          "url": "https://www.reuters.com/lifestyle/co-producer-hamilton-says-he-will-not-appear-brad-pitt-f1-film-2022-06-10/",
-          "urlToImage": "https://www.reuters.com/resizer/PkVBMJ_TuBwwc88r1MndS39-ETY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RPNVOMA55BKCZPBYXHW6CY3GRY.jpg",
-          "publishedAt": "2022-06-10T15:03:00Z",
-          "content": "BAKU, June 10 (Reuters) - Seven-times world champion Lewis Hamilton on Friday said he would not appear in a film starring Brad Pitt based on Formula One that the Mercedes racer is co-producing as he … [+2262 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Tesla to seek investor approval for 3-for-1 stock split - Reuters.com",
-          "description": "Electric vehicle maker Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> on Friday proposed a stock split at a three-to-one ratio in the form of a stock dividend, according to a regulatory filing.",
-          "url": "https://www.reuters.com/business/autos-transportation/tesla-seek-investor-approval-3-for-1-stock-split-2022-06-10/",
-          "urlToImage": "https://www.reuters.com/resizer/IXD7adVJ1XXzl0QrDlsCryANo6s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E6MJUYOIQBICHMXH2RD3JWRGHA.jpg",
-          "publishedAt": "2022-06-10T20:59:00Z",
-          "content": "June 10 (Reuters) - Electric vehicle maker Tesla Inc (TSLA.O) on Friday proposed a stock split at a three-to-one ratio in the form of a stock dividend, according to a regulatory filing.\r\nThe proposal… [+927 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Asian stocks track global shares lower, U.S. CPI in focus - Reuters.com",
-          "description": "Asian shares tracked Wall Street lower on Friday, while the dollar held on to its overnight gains, after rate hike guidance from the European Central Bank and upcoming U.S. inflation data unnerved investors.",
-          "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-06-10/",
-          "urlToImage": "https://www.reuters.com/resizer/qplLbzsslkmiXzkZ4lRbPHx0XRY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYV4XOG5GNLFVELPAIHFHW4BKI.jpg",
-          "publishedAt": "2022-06-10T02:14:00Z",
-          "content": "BEIJING/HONG KONG, June 10 (Reuters) - Asian shares tracked Wall Street lower on Friday, while the dollar held on to its overnight gains, after rate hike guidance from the European Central Bank and u… [+3924 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Analysis: Buy Now Pay Later business model faces test as rates rise - Reuters.com",
-          "description": "Reduced consumer spending, rising interest rates and trickier credit conditions spell trouble for Buy Now Pay Later lenders, raising the prospect of consolidation in the sector.",
-          "url": "https://www.reuters.com/technology/buy-now-pay-later-business-model-faces-test-rates-rise-2022-06-10/",
-          "urlToImage": "https://www.reuters.com/resizer/ZsFmzfa-atoKrrnkDyT6r0xxG0s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A5VFBEIADFKAPCUOKV27YGRR5A.jpg",
-          "publishedAt": "2022-06-10T11:11:00Z",
-          "content": "LONDON, June 10 (Reuters) - Reduced consumer spending, rising interest rates and trickier credit conditions spell trouble for Buy Now Pay Later lenders, raising the prospect of consolidation in the s… [+5737 chars]"
+          "title": "China retrocede em flexibilização de restrições contra a covid",
+          "description": "Surtos em Pequim e Xangai ressurgiram poucos dias depois que as duas cidades aliviaram as restrições sociais que estavam em vigor há meses A China começa a recolocar restrições contra a covid-19 apenas algumas semanas após uma grande flexibilização nas princi…",
+          "url": "https://valor.globo.com/mundo/noticia/2022/06/13/china-retrocede-em-flexibilizacao-de-restricoes-contra-a-covid.ghtml",
+          "urlToImage": "https://s2.glbimg.com/JWVoS8pxdTK3Oekwq20WFrRxy0c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/n/E/eAbAdRQDe6Mojgjfqgzw/ap22164355628187.jpg",
+          "publishedAt": "2022-06-13T12:22:14Z",
+          "content": "A China começa a recolocar restrições contra a covid-19 apenas algumas semanas após uma grande flexibilização nas principais cidades, e aumentam as preocupações de que o país possa mais uma vez adota… [+2455 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "Android Central"
+              "name": "Caradisiac.com"
           },
-          "author": "michael.hicks@futurenet.com (Michael L Hicks)",
-          "title": "The Galaxy Watch 5 should reclaim its 'Active' label, face Apple and Google head-on",
-          "description": "Apple Watch added detailed running metrics. The Pixel Watch will integrate Fitbit Premium. How will Samsung respond?",
-          "url": "https://www.androidcentral.com/wearables/galaxy-watch-5-should-reclaim-its-active-label",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/6NxbARhnhHK6bbXnF27JCb-1200-80.jpg",
-          "publishedAt": "2022-06-12T15:00:40Z",
-          "content": "Samsung will likely unveil the Galaxy Watch 5 this August. Leaks concerning the new watch have been surprisingly scant, but Samsung may boost the battery life and add a new temperature sensor for mor… [+5944 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Central"
-          },
-          "author": "derrek.lee@futurenet.com (Derrek Lee)",
-          "title": "Poll: Android users, does iOS 16 make you want to switch to the iPhone?",
-          "description": "Apple announced new features arriving on iOS 16 later this year, which appear to mirror those already on Android. We want to know if this would make you consider switching to an iPhone.",
-          "url": "https://www.androidcentral.com/apps-software/poll-would-you-switch-iphone-ios-16",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/yZrSM9PFHDvo8gpNfvY2x9-1200-80.jpg",
-          "publishedAt": "2022-06-11T15:00:00Z",
-          "content": "Apple's WWDC 2022 event took off on June 6 with a bevy of announcements highlighting the company's upcoming software updates. Of course, iOS 16 was on full display, with many new features coming to t… [+1585 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Central"
-          },
-          "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
-          "title": "Four things Google needs to learn from iPadOS",
-          "description": "If you want a tablet that's great for productivity and consuming media, the iPad is the obvious choice. With Google once again focusing on tablets, here's what it needs to do to challenge the iPad's dominance.",
-          "url": "https://www.androidcentral.com/tablets/four-things-google-needs-to-learn-from-ipados",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/EhncTM9Y29huxn4isFpX6d-1200-80.jpg",
-          "publishedAt": "2022-06-12T17:00:00Z",
-          "content": "If you care about Android tablets, Samsung is the only game in town. The South Korean manufacturer has been single-handedly propping up this category for some time now, introducing custom features to… [+6957 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Central"
-          },
-          "author": "ted@byteddyk.com (Ted Kritsonis)",
-          "title": "Sennheiser Momentum True Wireless 3 review: Playing with the best",
-          "description": "They're still pricey, but the Sennheiser Momentum True Wireless 3 also deliver plenty for your money.",
-          "url": "https://www.androidcentral.com/accessories/audio/earbuds/sennheiser-momentum-true-wireless-3-review",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/GLyqK44BdrDHTBRNdDLptQ-1200-80.jpg",
-          "publishedAt": "2022-06-11T14:30:00Z",
-          "content": "Sennheiser built its reputation on good sound quality above everything else, and that consistency serves the brand well across its product lines. Still, wireless earbuds have been a learning process … [+10137 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Android Central"
-          },
-          "author": "christinep2424@gmail.com (Christine Persaud)",
-          "title": "Mobvoi TicWatch GTH Pro vs. Fitbit Charge 5",
-          "description": "Both the Mobvoi TicWatch GTH Pro and Fitbit Charge 5 clock in at under $150, so choosing between them might be difficult.",
-          "url": "https://www.androidcentral.com/wearables/mobvoi-ticwatch-gth-pro-vs-fitbit-charge-5",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/GRY4FxfGcXggf5apimKfrQ-1200-80.jpg",
-          "publishedAt": "2022-06-11T14:00:00Z",
-          "content": "You might be new to fitness tracking and are considering grabbing a simple and affordable tracker for under $150. In this case, there are a few models from which to choose. When looking at the Mobvoi… [+12719 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "The Guardian"
-          },
-          "author": "Dan Milmo Global technology editor",
-          "title": "Apple and Google’s mobile browser ‘stranglehold’ may face UK investigation",
-          "description": "Companies’ dominance holds back Britain’s tech sector and restricts customer choice, says CMAThe UK competition watchdog is considering launching an investigation into Apple and Google’s dominance of the mobile browser market after finding the tech companies …",
-          "url": "https://amp.theguardian.com/business/2022/jun/10/apple-and-google-mobile-browser-stranglehold-may-face-uk-investigation",
-          "urlToImage": "https://i.guim.co.uk/img/media/e88ae6fc21d4235b6d5dc59f895c32488df54ce0/261_308_2853_1712/master/2853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6d3a3c57c6500a1de394c014a0fc0ca",
-          "publishedAt": "2022-06-10T10:33:30Z",
-          "content": "The UK competition watchdog is considering launching an investigation into Apple and Googles dominance of the mobile browser market after finding the tech companies have a stranglehold on a range of … [+2682 chars]"
+          "author": "Stéphane Schlesinger",
+          "title": "Essai - Audi Q3 Sportback 45 TFSI e (2022) : pour le look",
+          "description": "Lancée en 2020, la version Sportback, donc aux faux airs de coupé, du Q3 a également droit à sa variante hybride rechargeable sur secteur, la 45 TFSI e. Que vaut-elle ?",
+          "url": "https://www.caradisiac.com/essai-audi-q3-sportback-45-tfsi-e-2022-pour-le-look-196559.htm",
+          "urlToImage": "https://images.caradisiac.com/images/6/5/5/9/196559/S1-essai-audi-q3-sportback-45-tfsi-e-pour-le-look-717340.jpg",
+          "publishedAt": "2022-06-13T12:09:08Z",
+          "content": "EN BREF\r\nVersion coupé du Q3\r\nMotorisation hybride rechargeable\r\nÀ partir de 50 815 \r\n Brillamment renouvelé en 2018, le SUV moyen Audi Q3 utilise à très bon escient sa plateforme MQB-Evo. Depuis 202… [+6890 chars]"
       }
   ]
 }

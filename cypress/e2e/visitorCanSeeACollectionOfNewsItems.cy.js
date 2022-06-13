@@ -18,7 +18,7 @@ describe("Display news headlines", () => {
           cy.get(".image").should("exist");
           cy.get(".header").should(
             "contain",
-            "How Do Bitcoin Transactions Work?"
+            "Huge sell-off rocks Treasury markets, yield curve inverts"
           );
           cy.get(".description").should("exist");
         });
