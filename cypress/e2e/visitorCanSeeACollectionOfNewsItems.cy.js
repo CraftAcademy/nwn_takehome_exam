@@ -5,6 +5,9 @@ describe("Display news headlines", () => {
     });
     cy.visit("/");
   });
+  it("is expected to see a header", () => {
+    cy.get("[data-cy=news-header]").should("contain", "News Wire Network");
+  });
 
   it("is expected to see 20 list items", () => {
     cy.get("[data-cy=articles]").children().should("have.length", 20);

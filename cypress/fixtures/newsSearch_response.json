@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 16204,
+  "totalResults": 14076,
   "articles": [
       {
           "source": {
-              "id": null,
-              "name": "Terra.com.br"
+              "id": "engadget",
+              "name": "Engadget"
           },
-          "author": "Reuters",
-          "title": "Tesla está contratando de 500 a 600 funcionários por mês em planta na Alemanha, diz ministro",
-          "description": "A Tesla está contratando de 500 a 600 pessoas por mês em sua fábrica de Gruenheide e está trabalhando em parceria com a agência nacional de empregos para...",
-          "url": "https://www.terra.com.br/economia/tesla-esta-contratando-de-500-a-600-funcionarios-por-mes-em-planta-na-alemanha-diz-ministro,24fa46d554944faf93f2db2f4b732035jh1hsbh9.html",
-          "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-          "publishedAt": "2022-06-13T13:18:41Z",
-          "content": "A Tesla está contratando de 500 a 600 pessoas por mês em sua fábrica de Gruenheide e está trabalhando em parceria com a agência nacional de empregos para recrutar trabalhadores dispensados das montad… [+1026 chars]"
+          "author": "Kris Holt",
+          "title": "New York passes a bill to limit bitcoin mining",
+          "description": "New York lawmakers have passed a bill\r\n that would temporarily ban new bitcoin\r\n mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of Governor Kathy Hochul, who will sign it into law or veto th…",
+          "url": "https://www.engadget.com/new-york-cryptocurrency-bill-bitcoin-mining-climate-change-161126292.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/a8217250-bdfa-11eb-bfc4-2663225cea83",
+          "publishedAt": "2022-06-03T16:11:26Z",
+          "content": "New York lawmakers have passed a bill\r\n that would temporarily ban new bitcoin\r\n mining operations. Early on Friday, state senators voted 36-27 to pass the legislation. It's now bound for the desk of… [+2036 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "MarketWatch"
+              "name": "Gizmodo.com"
           },
-          "author": "Emily Bary",
-          "title": "The Ratings Game: Tesla’s ‘strong competitive advantage’ earns stock an upgrade",
-          "description": "Tesla Inc. is set up well in both the short term and the long run, according to an RBC Capital Markets analyst, who just turned bullish on the stock amid its \"favorable\" positioning.",
-          "url": "https://www.marketwatch.com/story/teslas-strong-competitive-advantage-earns-stock-an-upgrade-11655125157",
-          "urlToImage": "https://images.mktw.net/im-538680/social",
-          "publishedAt": "2022-06-13T13:09:14Z",
-          "content": "Tesla Inc. is set up well in both the short term and the long run, according to an RBC Capital Markets analyst, who just turned bullish on the stock amid its favorable positioning.RBCs Joseph Spak up… [+2909 chars]"
+          "author": "Passant Rabie",
+          "title": "Jay-Z and Jack Dorsey Launch Bitcoin Academy for New Generation of Crypto Bros",
+          "description": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin Academy, which will offer free classes on cryptocurrency for …",
+          "url": "https://gizmodo.com/jay-z-jack-dorsey-bitcoin-academy-1849040407",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/48fbb5e09973afbe730474c5cb0aadd4.jpg",
+          "publishedAt": "2022-06-09T19:45:00Z",
+          "content": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin A… [+2920 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "Yahoo Entertainment"
+              "name": "Gizmodo.com"
           },
-          "author": "Will Canny",
-          "title": "Silvergate Capital Could Benefit From Institutional Crypto Adoption, Wells Fargo Says",
-          "description": "The Wall Street bank initiated coverage of the stock with an \"overweight\" rating and a $120 price target.",
-          "url": "https://finance.yahoo.com/news/silvergate-capital-could-benefit-institutional-130813217.html",
-          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/W6netTBPnKLNy0YOWDA6rA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/21947ddb2c752589f3af40942e9d7ae6",
-          "publishedAt": "2022-06-13T13:08:13Z",
-          "content": "Don't miss CoinDesk's Consensus 2022, the must-attend crypto &amp; blockchain festival experience of the year in Austin, TX this June 9-12.\r\nOngoing institutional adoption of cryptocurrencies and pro… [+2210 chars]"
+          "author": "Lucas Ropek",
+          "title": "Bitcoin Wasn't as Decentralized or Anonymous as Crypto Bros Told You, Study Finds",
+          "description": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. Read more...",
+          "url": "https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg",
+          "publishedAt": "2022-06-08T11:00:00Z",
+          "content": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. \r\n Researchers from Baylor, Rice, and t… [+7343 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Why the Central African Republic adopted Bitcoin",
+          "description": "Some 90% of people in the Central African Republic lack access to the internet, needed to use Bitcoin.",
+          "url": "https://www.bbc.co.uk/news/world-africa-61565485",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/394F/production/_125017641_gettyimages-1320532557.jpg",
+          "publishedAt": "2022-06-05T23:03:49Z",
+          "content": "Image caption, President Faustin-Archange Touadéra wants to rethink his country's economic philosophy\r\nThe Central African Republic's decision to adopt Bitcoin as legal tender came as a surprise to m… [+8881 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mariella Moon",
+          "title": "Chipotle now accepts cryptocurrency payments",
+          "description": "You can now reportedly pay for your burritos and tacos with Bitcoin and other digital currencies, in case you don't mind spending your coins directly instead of going through exchanges first. Flexa has announced that the Mexican fast food chain can now accept…",
+          "url": "https://www.engadget.com/chipotle-accepts-cryptocurrency-payments-123013632.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-images/2019-11/62e01e20-0493-11ea-bffd-0d62f5b23b7c",
+          "publishedAt": "2022-06-02T12:30:13Z",
+          "content": "You can now reportedly pay for your burritos and tacos with Bitcoin and other digital currencies, in case you don't mind spending your coins directly instead of going through exchanges first. Flexa h… [+1428 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "Forbes"
+              "name": "Gizmodo.com"
           },
-          "author": "David Trainer, Contributor, \n David Trainer, Contributor\n https://www.forbes.com/sites/greatspeculations/people/davidtrainer/",
-          "title": "Operating Earnings Growth Slowing, But Still Overstated After 1Q22",
-          "description": "Operating Earnings calculated by S&P Global (SPGI) for the S&P 500 overstate Core Earnings and stocks are more expensive than they appear.",
-          "url": "https://www.forbes.com/sites/greatspeculations/2022/06/13/operating-earnings-growth-slowing-but-still-overstated-after-1q22/",
-          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve//62a3a02747763718fb328d2c/0x0.jpg?format=jpg&width=1200",
-          "publishedAt": "2022-06-13T13:04:17Z",
-          "content": "Finance and Investment concept.Money management and Financial chart.blur focus\r\ngetty\r\nOperating Earnings calculated by S&amp;P Global (SPGI) for the S&amp;P 500 overstate Core Earnings[1] through 1Q… [+8817 chars]"
+          "author": "Kyle Barr",
+          "title": "Luna Foundation Tried to Prop Up Terra’s Crumbling Base With Billions in Bitcoin, But It Still Failed",
+          "description": "As a kid, I remember when my father tried to use a broom handle in a last ditch effort to support a roof that was collapsing from the weight of nearly three feet of snow. You can guess how well that went. In a similar vein, Terra blockchain reportedly spent $…",
+          "url": "https://gizmodo.com/luna-foundation-terra-bitcoin-crypto-lfg-1848933191",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8f25ce9a57b3454932cdead4c3278b6.jpg",
+          "publishedAt": "2022-05-16T20:45:00Z",
+          "content": "As a kid, I remember when my father tried to use a broom handle in a last ditch effort to support a roof that was collapsing from the weight of nearly three feet of snow. You can guess how well that … [+3390 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "TheStreet"
+              "name": "Gizmodo.com"
           },
-          "author": "Towleroad",
-          "title": "Elon Musk Takes Sides in the Gender Identity Debate",
-          "description": "Published by The Street By Luc Olinga The CEO of Tesla intervenes more and more in all societal debates and does not hesitate to take controversial positions. Elon Musk loves lighting fires. The CEO of Tesla (TSLA) – Get Tesla Inc. Report thus uses his Twitte…",
-          "url": "https://www.thestreet.com/technology/elon-musk-takes-sides-in-the-gender-identity-debate",
-          "urlToImage": "https://www.towleroad.com/wp-content/uploads/2022/06/585490-origin_1.jpg",
-          "publishedAt": "2022-06-13T13:03:12Z",
-          "content": "By Luc Olinga The CEO of Tesla intervenes more and more in all societal debates and does not hesitate to take controversial positions. Elon Musk loves lighting fires. The CEO of Tesla (TSLA) – Get Te… [+412 chars]"
+          "author": "Matt Novak",
+          "title": "Chipotle Lovers Can Now Buy Burritos With Bitcoin, Ether, and More: Report",
+          "description": "Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to trade publication Restaurant Business. But there’s just one i…",
+          "url": "https://gizmodo.com/chipotle-bitcoin-ethereum-dogecoin-crypto-burritos-paym-1849006239",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a06df2b7927727af38b388d72e721dce.jpg",
+          "publishedAt": "2022-06-02T10:00:00Z",
+          "content": "Customers at Chipotle will now be able to pay for their burritos with cryptocurrencies, including bitcoin, ether, and dogecoin, in a move that could help crypto become more mainstream, according to t… [+3130 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Xataka.com"
+              "id": "the-verge",
+              "name": "The Verge"
           },
-          "author": "Javier Pastor",
-          "title": "Bitcoin se hunde por enésima vez y baja a niveles de diciembre de 2020: si economía va mal, las cripto no se libran",
-          "description": "Qué tiempos aquellos en los que el bitcoin alcanzó los 68.000 dólares. Parece que fue hace mucho, pero qué va: fue en noviembre de 2021. Han pasado poco más de seis meses, y hoy bitcoin está por debajo de los 24.000 dólares. La caída que ya era enorme hace un…",
-          "url": "https://www.xataka.com/criptomonedas/bitcoin-se-pega-su-enesimo-tortazo-baja-a-niveles-diciembre-2020-economia-va-mal-no-se-libran-criptos",
-          "urlToImage": "https://i.blogs.es/fa61a9/captura-de-pantalla-2022-06-13-a-las-13.22.21/840_560.jpeg",
-          "publishedAt": "2022-06-13T13:00:43Z",
-          "content": "Qué tiempos aquellos en los que el bitcoin alcanzó los 68.000 dólares. Parece que fue hace mucho, pero qué va: fue en noviembre de 2021. Han pasado poco más de seis meses, y hoy bitcoin está por deba… [+3180 chars]"
+          "author": "Richard Lawler",
+          "title": "DeFi lending giant Celsius halts withdrawals",
+          "description": "Celsius is a decentralized finance platform that’s one of the largest crypto lenders. It announced a “pause” on withdrawals as markets opened in Asia, leaving investors in the dark about what will happen next.",
+          "url": "https://www.theverge.com/2022/6/13/23165401/defi-cryptocurrency-celsius-network-pause-withdrawals",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/rtDU7dALLjxGLs-7_Xbon075OgY=/0x358:5000x2976/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23623361/1239951757.jpg",
+          "publishedAt": "2022-06-13T05:09:57Z",
+          "content": "Celsius has not said what it plans to do next\r\nExhibition And Experience Zones at The Paris NFT Day Conference\r\nThe Celsius Network, a decentralized finance (DeFi) platform and one of the largest cry… [+3737 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Marketingdirecto.com"
+              "id": "the-verge",
+              "name": "The Verge"
           },
-          "author": "Berta Jiménez",
-          "title": "Apple, Microsoft y Saudi Aramco, las tres empresas más valiosas del mundo",
-          "description": "Apple, Microsoft y la petrolera Saudi Aramco lideran el ‘Global Top 100’ elaborado por PwC, un ranking en el que la mayoría de empresas están radicadas en EE.UU.\nLa entrada Apple, Microsoft y Saudi Aramco, las tres empresas más valiosas del mundo se publicó p…",
-          "url": "https://www.marketingdirecto.com/marketing-general/publicidad/empresas-mas-valiosas-mundo-ranking-pwc",
-          "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/06/Apple-logo.jpg",
-          "publishedAt": "2022-06-13T13:00:00Z",
-          "content": "Apple, Microsoft y la petrolera Saudi Aramco lideran el Global Top 100 elaborado por PwC, un ranking en el que la mayoría de empresas están radicadas en EE.UU.Apple es la marca con mayor valor del mu… [+2254 chars]"
+          "author": "Nilay Patel",
+          "title": "How Ukraine’s wide use of cryptocurrency is playing out during the war",
+          "description": "Michael Chobanian, the president of the Blockchain Association of Ukraine, discusses how cryptocurrency and blockchain could reshape the Ukrainian government.",
+          "url": "https://www.theverge.com/23138465/decoder-ukraine-war-cryptocurrency-michael-chobanian-interview-bitcoin-usdt",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/hyxIGAl42Cl6sDQJzy2cD3X4tEg=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23583410/VRG_ILLO_Decoder_Michael_Chobanian.jpg",
+          "publishedAt": "2022-05-24T15:23:59Z",
+          "content": "Photo Illustration by Grayson Blackmon / The Verge; Photo by Oliyarnyk / CC-BY-SA-4.0\r\n\n \n\n\n With Michael Chobanian, the president of the Blockchain Association of Ukraine The terrible, unprovoked wa… [+52103 chars]"
       },
       {
           "source": {
-              "id": null,
-              "name": "Macdailynews.com"
-          },
-          "author": "MacDailyNews",
-          "title": "Apple, Microsoft, Amazon, other tech stocks tumble into the red",
-          "description": "Big tech names such as Apple, Microsoft, Amazon, Tesla, and Nvidia were deep in the red ahead of Monday’s market open…\nThe post Apple, Microsoft, Amazon, other tech stocks tumble into the red appeared first on MacDailyNews.",
-          "url": "https://macdailynews.com/2022/06/13/apple-microsoft-amazon-other-tech-stocks-tumble-into-the-red/",
-          "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2020/07/200721_stock_chart.png",
-          "publishedAt": "2022-06-13T12:56:28Z",
-          "content": "Big tech names such as Apple, Microsoft, Amazon, Tesla, and Nvidia were deep in the red ahead of Mondays market open.\r\nLina Saigol for Barron’s:\r\nShares of Tesla fell 2.7% in premarket trading, while… [+839 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "U.Today"
-          },
-          "author": "U.Today",
-          "title": "DOGE Coin Crashes 92% from Elon Musk-Driven ATH",
-          "description": "Dogecoin has declined even lower, marking 92% drop from last year's historic peak",
-          "url": "https://u.today/doge-coin-crashes-92-from-elon-musk-driven-ath",
-          "urlToImage": "https://u.today/sites/default/files/styles/1200x900/public/2022-06/20586.jpg",
-          "publishedAt": "2022-06-13T12:53:00Z",
-          "content": "Disclaimer: The opinion expressed here is not investment advice it is provided for informational purposes only. It does not necessarily reflect the opinion of U.Today. Every investment and all tradin… [+2303 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Dcforecasts.com"
-          },
-          "author": "Stefan",
-          "title": "DOGE Is Down By 90% Since Elon Musk’s SNL Show: Analysis",
-          "description": "DOGE is down by 90% since Elon Musk’s appearance on the SNL show but the Tesla founder still invokes it on social media as we can see in our Dogecoin news. Last may, DOGE’s price approached a new high of $0.72 and the crypto’s devoted fan base hoped that Elon…",
-          "url": "https://www.dcforecasts.com/dogecoin-news/doge-is-down-by-90-since-elon-musks-snl-show-analysis/",
-          "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2021/03/SNL.png",
-          "publishedAt": "2022-06-13T12:46:05Z",
-          "content": "DOGE is down by 90% since Elon Musks appearance on the SNL show but the Tesla founder still invokes it on social media as we can see in our Dogecoin news.\r\nLast may, DOGEs price approached a new high… [+2193 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "24/7 Wall St."
-          },
-          "author": "247lee",
-          "title": "Monday’s Top Analyst Upgrades and Downgrades: Electronic Arts, Enterprise Products Partners, GoodRx, Netflix, Spirit Airlines, Take-Two Interactive, Target, Tesla and More",
-          "description": "Monday's top analyst upgrades and downgrades included Docusign, Electronic Arts, Enterprise Products Partners, GoodRx, Netflix, Spirit Airlines, Take-Two Interactive Software, Target, Tesla and Vonage.",
-          "url": "https://247wallst.com/investing/2022/06/13/mondays-top-analyst-upgrades-and-downgrades-docusign-electronic-arts-enterprise-products-partners-goodrx-netflix-spirit-airlines-take-two-interactive-software-target-tesla-vonage/",
-          "urlToImage": "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry17-Zay.jpg",
-          "publishedAt": "2022-06-13T12:43:36Z",
-          "content": "The futures were hammered Monday, as investors return from an epic market meltdown last week and look to be in store for more. The May consumer price index number came in red hot at 8.6%. Core inflat… [+2591 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Frandroid"
-          },
-          "author": "Nathan Le Gohlisse",
-          "title": "Conduite autonome : Tesla dépenserait des milliards chez un grand constructeur de smartphones",
-          "description": "Tesla aurait signé avec Samsung un contrat de plusieurs milliards pour s’équiper de nouvelles caméras. Elles seront précieuses pour sa technologie de conduite autonome.Samsung est bien parti pour être le fournisseur attitré de Tesla en matière de caméras. Les…",
-          "url": "https://www.frandroid.com/produits-android/automobile/voitures-electriques/1365143_conduite-autonome-tesla-depenserait-des-milliards-chez-un-grand-constructeur-de-smartphones",
-          "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/05/tesla-mode-3-scaled.jpg",
-          "publishedAt": "2022-06-13T12:40:43Z",
-          "content": "Tesla aurait signé avec Samsung un contrat de plusieurs milliards pour séquiper de nouvelles caméras. Elles seront précieuses pour sa technologie de conduite autonome.\r\nTesla Model 3, pour illustrati… [+2645 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Chip.com.tr"
-          },
-          "author": "CHIP Online",
-          "title": "Tesla araçların saniyeler içinde çalınmasına yol açan basit bir hack yöntemi keşfedildi",
-          "description": "Bir araştırmacı, Tesla araçları saniyeler içinde kontrol altına alabilecek bir uygulama geliştirdi.",
-          "url": "https://www.chip.com.tr/haber/tesla-teknolojisi-icin-ilginc-bir-hack-bulundu_151680.html",
-          "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2022/06/12/tesla-teknolojisi-icin-ilginc-bir-hack-bulundu-c1sB.jpg",
-          "publishedAt": "2022-06-13T12:38:04Z",
-          "content": "Tesla araçları da dahil olmak üzere elektrikli araçların hack'lenebilir olduğunu biliyoruz. Ve şimdi yeni bir video, aracınızın yakınında olan usta bir siber suçlunun arabanızın sistemine girip gezin… [+2644 chars]"
-      },
-      {
-          "source": {
-              "id": "techradar",
-              "name": "TechRadar"
-          },
-          "author": "axel.metz@futurenet.com (Axel Metz)",
-          "title": "This solar-powered electric car can run for months without charging",
-          "description": "Dutch automotive startup Lightyear has revealed a production-ready version of its solar-powered Lightyear 0.",
-          "url": "https://www.techradar.com/news/this-solar-powered-electric-car-can-run-for-months-without-charging",
-          "urlToImage": "https://cdn.mos.cms.futurecdn.net/7aKXJwUakbdFnMf9A2mA3M-1200-80.jpg",
-          "publishedAt": "2022-06-13T12:37:30Z",
-          "content": "Dutch automotive startup Lightyear has officially lifted the lid on its “production-ready” Lightyear 0 – a solar-powered electric vehicle (EV) capable of running without charge for up to seven months… [+3671 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "CNBC"
-          },
-          "author": "Matthew J. Belvedere, Peter Schacknow",
-          "title": "What to watch today: S&P 500 poised to fall back into a bear market",
-          "description": "U.S. stock futures sank Monday after the worst week on Wall Street since January.",
-          "url": "https://www.cnbc.com/2022/06/13/what-to-watch-today-sp-500-poised-to-fall-back-into-a-bear-market.html",
-          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074427-1654896547616-gettyimages-1402189341-dscf6755_yf8s5e23.jpeg?v=1654896600&w=1920&h=1080",
-          "publishedAt": "2022-06-13T12:31:07Z",
-          "content": "U.S. stock futures sank Monday after the worst week on Wall Street since January. Bond yields soared as investors braced for the Federal Reserve to increase interest rates later this week following F… [+4081 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Overclockers.ru"
-          },
-          "author": "Алексей Сычёв",
-          "title": "Автопроизводитель Geely сможет стать владельцем бизнеса Meizu по выпуску смартфонов",
-          "description": "Заявка китайским антимонопольщикам уже подана.",
-          "url": "https://overclockers.ru/hardnews/show/119222/avtoproizvoditel-geely-smozhet-stat-vladelcem-biznesa-meizu-po-vypusku-smartfonov",
-          "urlToImage": "https://overclockers.ru/st/images/preview/jqImyJncJkCsVQ9G.jpg",
-          "publishedAt": "2022-06-13T12:30:00Z",
-          "content": "Geely (Eric Li) Hubei Xingji Shidai Technology Co Ltd, . Geely 55% . , Reuters, 79% Meizu.\r\n, , Geely Volvo Lotus, Polestar. , Tesla NIO . , Foxconn Vingroup. , , Geely Meizu . 79% Meizu, ."
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Macitynet.it"
-          },
-          "author": "Emiliano Contarino",
-          "title": "Tesla chiede una divisione tre contro uno per rendere le sue azioni più accessibili",
-          "description": "Tesla chiede uno Spalti Lock per rendere più accessibile l'acquisto delle sue azioni.\n- su macitynet.it Tesla chiede una divisione tre contro uno per rendere le sue azioni più accessibili",
-          "url": "https://www.macitynet.it/?p=1126401",
-          "urlToImage": "https://www.macitynet.it/wp-content/uploads/2022/06/tesla-generic.jpeg",
-          "publishedAt": "2022-06-13T12:29:27Z",
-          "content": "Tesla sta chiedendo ai suoi azionisti di approvare una divisione azionaria a tre vie per contribuire a rendere le azioni della società più economiche per gli acquirenti.\r\nLa richiesta è inclusa in un… [+2226 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Barron's"
-          },
-          "author": "Lina Saigol",
-          "title": "Apple, Microsoft, Amazon, and Other Tech Stocks Tumble",
-          "description": "Ahead of Monday's open, S&P 500 futures dropped 2.4% to 3,804 according to Dow Jones Market Data.",
-          "url": "https://www.barrons.com/articles/apple-microsoft-amazon-tesla-tech-stocks-selloff-51655115570",
-          "urlToImage": "https://images.barrons.com/im-333068/social",
-          "publishedAt": "2022-06-13T12:26:11Z",
-          "content": "Big tech names such as \r\n Tesla,Apple\r\n and \r\n Nvidia,\r\n were deep in the red ahead of Mondays market open. Shares of Tesla (ticker: TSLA) fell 2.7% in premarket trading, while Apple (AAPL) was neari… [+960 chars]"
-      },
-      {
-          "source": {
-              "id": "globo",
-              "name": "Globo"
+              "id": "reuters",
+              "name": "Reuters"
           },
           "author": null,
-          "title": "China retrocede em flexibilização de restrições contra a covid",
-          "description": "Surtos em Pequim e Xangai ressurgiram poucos dias depois que as duas cidades aliviaram as restrições sociais que estavam em vigor há meses A China começa a recolocar restrições contra a covid-19 apenas algumas semanas após uma grande flexibilização nas princi…",
-          "url": "https://valor.globo.com/mundo/noticia/2022/06/13/china-retrocede-em-flexibilizacao-de-restricoes-contra-a-covid.ghtml",
-          "urlToImage": "https://s2.glbimg.com/JWVoS8pxdTK3Oekwq20WFrRxy0c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/n/E/eAbAdRQDe6Mojgjfqgzw/ap22164355628187.jpg",
-          "publishedAt": "2022-06-13T12:22:14Z",
-          "content": "A China começa a recolocar restrições contra a covid-19 apenas algumas semanas após uma grande flexibilização nas principais cidades, e aumentam as preocupações de que o país possa mais uma vez adota… [+2455 chars]"
+          "title": "Bitcoin gains over 5% to $31441.76 - Reuters",
+          "description": "Bitcoin rose 5.2% to $31,441.76 at 2000 GMT on Monday, adding $1,552.78 to its previous close.",
+          "url": "https://www.reuters.com/markets/us/bitcoin-gains-over-5-3144176-2022-06-06/",
+          "urlToImage": "https://www.reuters.com/resizer/lEay-or8c9TPjZOEmIjrJf3ylQk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3RKTTS2CRVM2BEEDCB2ZIPV3L4.jpg",
+          "publishedAt": "2022-06-06T20:11:00Z",
+          "content": "June 6 (Reuters) - Bitcoin rose 5.2% to $31,441.76 at 2000 GMT on Monday, adding $1,552.78 to its previous close.\r\nThe world's biggest and best-known cryptocurrency is down 34.8% from the year's high… [+335 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Bitcoin falls 12.1% to $23366 - Reuters",
+          "description": "Bitcoin dropped 12.1% to $23,366 at 2002 GMT on Monday, losing $3,218.95 from its previous close.",
+          "url": "https://www.reuters.com/markets/us/bitcoin-falls-121-23366-2022-06-13/",
+          "urlToImage": "https://www.reuters.com/resizer/2xcvLrlBIq1EK8-72AwbhUzHdkM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NOU4XZOJJNNOHH57DRGF5PAQSM.jpg",
+          "publishedAt": "2022-06-13T20:38:00Z",
+          "content": "June 13 (Reuters) - Bitcoin dropped 12.1% to $23,366 at 2002 GMT on Monday, losing $3,218.95 from its previous close.\r\nBitcoin, the world's biggest and best-known cryptocurrency, is down 51.6% from t… [+357 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Gian M. Volpicelli",
+          "title": "Terra’s Crypto Meltdown Was Inevitable",
+          "description": "An epic crash in algorithmic stablecoins spells trouble for the entire industry.",
+          "url": "https://www.wired.com/story/terra-luna-collapse/",
+          "urlToImage": "https://media.wired.com/photos/627d5bac0c454f12d5142672/191:100/w_1280,c_limit/Terra-Luna-Stable-Coins-Business-1382597134.jpg",
+          "publishedAt": "2022-05-12T19:14:35Z",
+          "content": "At a Mexican restaurant in North London a few weeks ago, a handful of small-time but remarkably discerning retail cryptocurrency investors predicted that terra and luna would crash. Several of them w… [+2779 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Cryptoverse: Is the end of the bitcoin winter nigh? - Reuters.com",
+          "description": "The crypto winter is into its ninth week and bitcoin can't shake the chills.",
+          "url": "https://www.reuters.com/markets/europe/cryptoverse-is-end-bitcoin-winter-nigh-2022-05-24/",
+          "urlToImage": "https://www.reuters.com/resizer/tskc85lFRu_oQwAPvUhDH1JIOVU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNX6RIL72VISZBW5RI2INPQ2YA.jpg",
+          "publishedAt": "2022-05-24T05:30:00Z",
+          "content": "May 24 (Reuters) - The crypto winter is into its ninth week and bitcoin can't shake the chills.\r\nFrom technicals to turnover, market indicators are flashing red or amber for the biggest cryptocurrenc… [+3967 chars]"
       },
       {
           "source": {
               "id": null,
-              "name": "Caradisiac.com"
+              "name": "CNET"
           },
-          "author": "Stéphane Schlesinger",
-          "title": "Essai - Audi Q3 Sportback 45 TFSI e (2022) : pour le look",
-          "description": "Lancée en 2020, la version Sportback, donc aux faux airs de coupé, du Q3 a également droit à sa variante hybride rechargeable sur secteur, la 45 TFSI e. Que vaut-elle ?",
-          "url": "https://www.caradisiac.com/essai-audi-q3-sportback-45-tfsi-e-2022-pour-le-look-196559.htm",
-          "urlToImage": "https://images.caradisiac.com/images/6/5/5/9/196559/S1-essai-audi-q3-sportback-45-tfsi-e-pour-le-look-717340.jpg",
-          "publishedAt": "2022-06-13T12:09:08Z",
-          "content": "EN BREF\r\nVersion coupé du Q3\r\nMotorisation hybride rechargeable\r\nÀ partir de 50 815 \r\n Brillamment renouvelé en 2018, le SUV moyen Audi Q3 utilise à très bon escient sa plateforme MQB-Evo. Depuis 202… [+6890 chars]"
+          "author": "Julian Dossett",
+          "title": "After Luna Collapse, Terra Looks to New Blockchain. This Week's Top Bitcoin and Crypto News - CNET",
+          "description": "All the bitcoin, cryptocurrency and NFT news for the week ending May 20.",
+          "url": "https://www.cnet.com/personal-finance/crypto/after-luna-collapse-terra-looks-to-new-blockchain-this-weeks-top-bitcoin-and-crypto-news/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200",
+          "publishedAt": "2022-05-21T11:30:06Z",
+          "content": "After two linked cryptocurrencies collapsed and became almost worthless, a plan emerged to create a new blockchain for the luna cryptocurrency. Seth Green's NFTs were stolen in a phishing scam. Nike … [+3932 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Julian Dossett",
+          "title": "Terra 2.0 Is Now Live, Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET",
+          "description": "All the bitcoin, cryptocurrency and NFT news for the week ending May 27.",
+          "url": "https://www.cnet.com/personal-finance/crypto/terra-2-0-launched-today-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200",
+          "publishedAt": "2022-05-28T20:57:40Z",
+          "content": "Terra launched a new blockchain with a new luna token, today. Seth Green's animated show starring his stolen NFT is up in the air. The largest stablecoin issuer in the world launched a token for the … [+3854 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Julian Dossett",
+          "title": "Terra 2.0 Launch Planned Following Luna Meltdown. This Week's Top Bitcoin and Crypto News - CNET",
+          "description": "All the bitcoin, cryptocurrency and NFT news for the week ending May 27.",
+          "url": "https://www.cnet.com/personal-finance/crypto/terra-2-0-launch-planned-following-luna-meltdown-this-weeks-top-bitcoin-and-crypto-news/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/941676ec40a5f484a5a3421c0fab4fc66d83adf2/2022/04/23/ddcb4d2b-32be-43f0-b48f-f6d31e44bec9/crypto-story-1.png?auto=webp&fit=crop&height=630&width=1200",
+          "publishedAt": "2022-05-28T17:36:26Z",
+          "content": "Terra is launching a new blockchain with a new luna token. Seth Green's animated show starring his stolen NFT is up in the air. The largest stablecoin issuer in the world launched a token for the Mex… [+3792 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Slashdot.org"
+          },
+          "author": "msmash",
+          "title": "Bitcoin Has No Future as a Payments Network, Says FTX Chief",
+          "description": "Bitcoin has no future as a payments network because of its inefficiency and high environmental costs, according to one of crypto's most influential chief executives. From a report: Sam Bankman-Fried, founder of the digital asset exchange FTX, said the proof o…",
+          "url": "https://tech.slashdot.org/story/22/05/16/147235/bitcoin-has-no-future-as-a-payments-network-says-ftx-chief",
+          "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+          "publishedAt": "2022-05-16T14:07:00Z",
+          "content": "Sam Bankman-Fried, founder of the digital asset exchange FTX, said the proof of work system of validating blockchain transactions, which underpins bitcoin, was not capable of scaling up to cope with … [+1063 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Luis Ferré-Sadurní, Grace Ashford, Dana Rubinstein and David Yaffe-Bellany",
+          "title": "Fight Looms Over New York’s Bid to Slow Crypto-Mining Boom",
+          "description": "Crypto interests are lobbying Gov. Kathy Hochul to veto a groundbreaking bill that would temporarily halt new crypto-mining projects at fossil-fuel burning plants.",
+          "url": "https://www.nytimes.com/2022/06/07/nyregion/cryptomining-ban-ny.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/06/07/nyregion/00ny-crypto1/00ny-crypto1-facebookJumbo.jpg",
+          "publishedAt": "2022-06-07T21:52:13Z",
+          "content": "As cryptocurrencies have grown in value, Bitcoin mining has become a major industry. There are publicly traded crypto mining companies like Riot Blockchain and Marathon Digital Holdings, worth hundre… [+2001 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Bitcoin lures inflation-weary Argentines despite crypto crash - Reuters",
+          "description": "In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price quotes and a huge neon Bitcoin logo. The bill can be paid in digital money, too.",
+          "url": "https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/",
+          "urlToImage": "https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg",
+          "publishedAt": "2022-05-30T11:12:00Z",
+          "content": "BUENOS AIRES, May 30 (Reuters) - In the Crypstation cafe in downtown Buenos Aires, trendy young Argentines order their lattes and pastries surrounded by screens with real-time cryptocurrency price qu… [+3418 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Rowan Moore",
+          "title": "Crypto is starting to lose its cool – just look at El Salvador | Rowan Moore",
+          "description": "Fantasies of a Bitcoin City have been undermined by the country’s huge losses in cryptocurrencyTo its evangelists, bitcoin is a frictionless, empowering form of money that liberates citizens of the world from the shackles of banks and national governments. To…",
+          "url": "https://amp.theguardian.com/commentisfree/2022/may/21/bitcoin-losing-its-cool-look-at-el-salvador",
+          "urlToImage": "https://i.guim.co.uk/img/media/c144d7b7094bd731dbfdbeac05b2f7a775c63718/0_64_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=b5753424a9388779bcfe5571d40754d2",
+          "publishedAt": "2022-05-21T14:00:21Z",
+          "content": "To its evangelists, bitcoin is a frictionless, empowering form of money that liberates citizens of the world from the shackles of banks and national governments. To sceptics, the cryptocurrency is a … [+3587 chars]"
       }
   ]
 }
