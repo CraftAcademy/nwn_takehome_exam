@@ -1,8 +1,9 @@
-import { createStore } from 'redux'
+import {
+  legacy_createStore
+} from 'redux'
 import rootReducer from '../reducers/rootReducer'
 
 const configureStore = () => {
-  return createStore(rootReducer)
+  return legacy_createStore(rootReducer)
 }
-
 export default configureStore
