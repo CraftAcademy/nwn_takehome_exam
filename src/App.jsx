@@ -5,6 +5,7 @@ import NewsIndex from "./components/NewsIndex";
 import logo from "./nwn.png";
 
 const App = () => {
+ 
   return (
     <>
       <Menu style={{ borderRadius: 0, background: "" }}>
@@ -18,7 +19,9 @@ const App = () => {
         </Menu.Menu>
       </Menu>
       <Container>
-        <Header as="h2">News Wire Network</Header>
+        <Header as="h2" data-cy="news-header">
+          News Wire Network
+          </Header>
         <p>News from around the world</p>
         <NewsIndex />
       </Container>
