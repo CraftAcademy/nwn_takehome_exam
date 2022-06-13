@@ -19,9 +19,7 @@ const NewsIndex = () => {
     dispatch({ type: "SET_NEWS_FEED", payload: response.data.articles });
   };
   const listOfTopHeadlines = articles.map((article) => {
-    debugger
     return <NewsCard article={article} />;
-   
   });
   return (
     <>
