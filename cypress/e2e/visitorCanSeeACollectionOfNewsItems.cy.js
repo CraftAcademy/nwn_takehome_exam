@@ -1,5 +1,5 @@
 describe("Display news headlines", () => {
-  beforeEach(() => {
+  before(() => {
     cy.intercept("GET", "https://newsapi.org/v2/top-headlines**", {
       fixture: "news_index.json",
     });
