@@ -1,266 +1,265 @@
 {
   "status": "ok",
   "totalResults": 69,
-  "articles": [
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Huge sell-off rocks Treasury markets, yield curve inverts - Reuters.com",
-          "description": "U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates may rise faster and further than anticipated.",
-          "url": "https://www.reuters.com/business/huge-selloff-rocks-treasury-markets-yield-curve-inverts-2022-06-13/",
-          "urlToImage": "https://www.reuters.com/resizer/E3oCN4HRiOthLarlEAdZOyeInkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AW67U5BW4BICNDITFH7UDX73BU.jpg",
-          "publishedAt": "2022-06-13T12:12:00Z",
-          "content": "June 13 (Reuters) - U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates m… [+3297 chars]"
+  "articles": [{
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
       },
-      {
-          "source": {
-              "id": "business-insider",
-              "name": "Business Insider"
-          },
-          "author": "Stephen Jones",
-          "title": "United flier had to buy clothes after 13-hour delay, luggage missing - Business Insider",
-          "description": "A United customer meant to fly to San Diego but had to drive two hours after she could only secure a flight to LA13 hours later, reports say.",
-          "url": "https://www.businessinsider.com/united-airlines-passenger-bought-clothes-target-flight-delay-2022-6",
-          "urlToImage": "https://i.insider.com/62a7104d6053710019e9e6ea?width=1200&format=jpeg",
-          "publishedAt": "2022-06-13T12:04:48Z",
-          "content": "A sales coordinator was forced to buy new clothes and drive two hours to her destination, after her luggage was left off a United airlines flight that departed 13 hours she had been due to travel.\r\nT… [+2275 chars]"
+      "author": null,
+      "title": "Huge sell-off rocks Treasury markets, yield curve inverts - Reuters.com",
+      "description": "U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates may rise faster and further than anticipated.",
+      "url": "https://www.reuters.com/business/huge-selloff-rocks-treasury-markets-yield-curve-inverts-2022-06-13/",
+      "urlToImage": "https://www.reuters.com/resizer/E3oCN4HRiOthLarlEAdZOyeInkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AW67U5BW4BICNDITFH7UDX73BU.jpg",
+      "publishedAt": "2022-06-13T12:12:00Z",
+      "content": "June 13 (Reuters) - U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates m… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "CNBC"
-          },
-          "author": "John Rosevear",
-          "title": "EV start-up Electric Last Mile Solutions plans to declare bankruptcy a year after going public - CNBC",
-          "description": "The Michigan-based start-up will move to liquidate less than a year after it went public.",
-          "url": "https://www.cnbc.com/2022/06/13/ev-start-up-electric-last-mile-solutions-to-declare-bankruptcy.html",
-          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106903351-1624887140914-IMG_5346_HR.jpg?v=1624887504&w=1920&h=1080",
-          "publishedAt": "2022-06-13T11:57:00Z",
-          "content": "EV start-up Electric Last Mile Solutions said late Sunday it plans to file for bankruptcy less than a year after it went public via a merger with a special purpose acquisition company.\r\nThe Michigan-… [+974 chars]"
+      "author": "Stephen Jones",
+      "title": "United flier had to buy clothes after 13-hour delay, luggage missing - Business Insider",
+      "description": "A United customer meant to fly to San Diego but had to drive two hours after she could only secure a flight to LA13 hours later, reports say.",
+      "url": "https://www.businessinsider.com/united-airlines-passenger-bought-clothes-target-flight-delay-2022-6",
+      "urlToImage": "https://i.insider.com/62a7104d6053710019e9e6ea?width=1200&format=jpeg",
+      "publishedAt": "2022-06-13T12:04:48Z",
+      "content": "A sales coordinator was forced to buy new clothes and drive two hours to her destination, after her luggage was left off a United airlines flight that departed 13 hours she had been due to travel.\r\nT… [+2275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "CNBC"
-          },
-          "author": "Jesse Pound",
-          "title": "Goldman's advice to clients during sell-off: Buy stocks with 'margin of safety' - CNBC",
-          "description": "These stocks are already trading below historical valuation levels, according to Goldman Sachs.",
-          "url": "https://www.cnbc.com/2022/06/13/goldmans-advice-to-clients-during-sell-off-buy-stocks-with-margin-of-safety.html",
-          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106921257-16280112952021-08-03t155626z_1780090829_rc2rxo9n39pg_rtrmadp_0_health-coronavirus-tyson-foods.jpeg?v=1628011391&w=1920&h=1080",
-          "publishedAt": "2022-06-13T11:14:41Z",
-          "content": null
+      "author": "John Rosevear",
+      "title": "EV start-up Electric Last Mile Solutions plans to declare bankruptcy a year after going public - CNBC",
+      "description": "The Michigan-based start-up will move to liquidate less than a year after it went public.",
+      "url": "https://www.cnbc.com/2022/06/13/ev-start-up-electric-last-mile-solutions-to-declare-bankruptcy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106903351-1624887140914-IMG_5346_HR.jpg?v=1624887504&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:57:00Z",
+      "content": "EV start-up Electric Last Mile Solutions said late Sunday it plans to file for bankruptcy less than a year after it went public via a merger with a special purpose acquisition company.\r\nThe Michigan-… [+974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "CNBC"
-          },
-          "author": "Arjun Kharpal",
-          "title": "Tesla fires Singapore country manager after Elon Musk warns of job cuts - CNBC",
-          "description": "Tesla CEO Elon Musk recently told employees about plans to reduce salaried headcount by 10%.",
-          "url": "https://www.cnbc.com/2022/06/13/tesla-fires-singapore-country-manager-after-elon-musk-warns-of-job-cuts.html",
-          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074660-1655116266416-gettyimages-1240065676-WESTFIELD_MALLS.jpeg?v=1655116502&w=1920&h=1080",
-          "publishedAt": "2022-06-13T11:02:09Z",
-          "content": "Tesla has laid off its Singapore country manager just over a week after the electric carmaker's CEO Elon Musk warned of global job cuts.\r\nChristopher Bousigues posted on LinkedIn on Sunday that his r… [+1062 chars]"
+      "author": "Jesse Pound",
+      "title": "Goldman's advice to clients during sell-off: Buy stocks with 'margin of safety' - CNBC",
+      "description": "These stocks are already trading below historical valuation levels, according to Goldman Sachs.",
+      "url": "https://www.cnbc.com/2022/06/13/goldmans-advice-to-clients-during-sell-off-buy-stocks-with-margin-of-safety.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106921257-16280112952021-08-03t155626z_1780090829_rc2rxo9n39pg_rtrmadp_0_health-coronavirus-tyson-foods.jpeg?v=1628011391&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:14:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "MarketWatch"
-          },
-          "author": "Barbara Kollmeyer",
-          "title": "The S&P 500 is clinging to a key support level after Friday's meltdown, here's what happens if that fails - MarketWatch",
-          "description": "Critical information for the U.S. trading day",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-is-clinging-to-a-key-support-level-after-fridays-meltdown-heres-what-happens-if-that-fails-11655116420",
-          "urlToImage": "https://images.mktw.net/im-562484/social",
-          "publishedAt": "2022-06-13T10:33:00Z",
-          "content": "Last weeks shock U.S. inflation number continues to tear through markets, with dip buyers seemingly in hiding. Hardest hit Nasdaq-100 futures are down 3%.Investors are now focused squarely on Wednesd… [+7379 chars]"
+      "author": "Arjun Kharpal",
+      "title": "Tesla fires Singapore country manager after Elon Musk warns of job cuts - CNBC",
+      "description": "Tesla CEO Elon Musk recently told employees about plans to reduce salaried headcount by 10%.",
+      "url": "https://www.cnbc.com/2022/06/13/tesla-fires-singapore-country-manager-after-elon-musk-warns-of-job-cuts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074660-1655116266416-gettyimages-1240065676-WESTFIELD_MALLS.jpeg?v=1655116502&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:02:09Z",
+      "content": "Tesla has laid off its Singapore country manager just over a week after the electric carmaker's CEO Elon Musk warned of global job cuts.\r\nChristopher Bousigues posted on LinkedIn on Sunday that his r… [+1062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
       },
-      {
-          "source": {
-              "id": "cnn",
-              "name": "CNN"
-          },
-          "author": "Laura He, CNN Business",
-          "title": "Ikea is considering closing another store in China - CNN",
-          "description": "Ikea has already shut one store in mainland China this year and could close another in Shanghai in early July.",
-          "url": "https://www.cnn.com/2022/06/13/business/ikea-closing-shanghai-store-intl-hnk/index.html",
-          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220613105525-ikea-yangpu-super-tease.jpg",
-          "publishedAt": "2022-06-13T10:19:00Z",
-          "content": null
+      "author": "Barbara Kollmeyer",
+      "title": "The S&P 500 is clinging to a key support level after Friday's meltdown, here's what happens if that fails - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-clinging-to-a-key-support-level-after-fridays-meltdown-heres-what-happens-if-that-fails-11655116420",
+      "urlToImage": "https://images.mktw.net/im-562484/social",
+      "publishedAt": "2022-06-13T10:33:00Z",
+      "content": "Last weeks shock U.S. inflation number continues to tear through markets, with dip buyers seemingly in hiding. Hardest hit Nasdaq-100 futures are down 3%.Investors are now focused squarely on Wednesd… [+7379 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
       },
-      {
-          "source": {
-              "id": "the-verge",
-              "name": "The Verge"
-          },
-          "author": "Jon Porter",
-          "title": "Google suspends engineer who claims its AI is sentient - The Verge",
-          "description": "Google has placed engineer Blake Lemoine on paid administrative leave for allegedly breaking its confidentiality policies when he grew concerned that an AI chatbot system had achieved sentience.",
-          "url": "https://www.theverge.com/2022/6/13/23165535/google-suspends-ai-artificial-intelligence-engineer-sentient",
-          "urlToImage": "https://cdn.vox-cdn.com/thumbor/reUdXQgmEtODsXLQNnBc9Q54CAE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802115/akrales_180508_2553_0039.jpg",
-          "publishedAt": "2022-06-13T10:15:49Z",
-          "content": "It claims Blake Lemoine breached its confidentiality policies\r\nIts LaMDA system is built to make AI more conversational.\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nGoogle has placed one of its eng… [+4028 chars]"
+      "author": "Laura He, CNN Business",
+      "title": "Ikea is considering closing another store in China - CNN",
+      "description": "Ikea has already shut one store in mainland China this year and could close another in Shanghai in early July.",
+      "url": "https://www.cnn.com/2022/06/13/business/ikea-closing-shanghai-store-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220613105525-ikea-yangpu-super-tease.jpg",
+      "publishedAt": "2022-06-13T10:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "Gizmodo.com"
-          },
-          "author": "Matt Novak",
-          "title": "Celsius Crypto Platform Halts All Withdrawals as Bitcoin Tanks Over 13% - Gizmodo",
-          "description": "Bitcoin has plunged below $24,000, its lowest level since December 2020.",
-          "url": "https://gizmodo.com/celsius-bitcoin-price-crypto-withdrawals-scam-money-tan-1849051951",
-          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/175b28e22e3514f5ac2ea224dccefdd0.png",
-          "publishedAt": "2022-06-13T10:05:00Z",
-          "content": "The Celsius crypto network has halted all trading, including withdrawals, according to a press release from the company released overnight. The unusual move comes as major cryptocurrencies plummeted … [+5040 chars]"
+      "author": "Jon Porter",
+      "title": "Google suspends engineer who claims its AI is sentient - The Verge",
+      "description": "Google has placed engineer Blake Lemoine on paid administrative leave for allegedly breaking its confidentiality policies when he grew concerned that an AI chatbot system had achieved sentience.",
+      "url": "https://www.theverge.com/2022/6/13/23165535/google-suspends-ai-artificial-intelligence-engineer-sentient",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/reUdXQgmEtODsXLQNnBc9Q54CAE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802115/akrales_180508_2553_0039.jpg",
+      "publishedAt": "2022-06-13T10:15:49Z",
+      "content": "It claims Blake Lemoine breached its confidentiality policies\r\nIts LaMDA system is built to make AI more conversational.\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nGoogle has placed one of its eng… [+4028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
       },
-      {
-          "source": {
-              "id": "bloomberg",
-              "name": "Bloomberg"
-          },
-          "author": null,
-          "title": "Bitcoin Price (BTCUSD) Falls 9% to $25,000 Level, Lowest Since December 2020 - Bloomberg",
-          "description": null,
-          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=74d559f7-eb18-11ec-abff-4f4b6f526d4d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNi0xMy9iaXRjb2luLXNpbmtzLXRvLTE4LW1vbnRoLWxvdy1hcy11cy1pbmZsYXRpb24taW1wYWN0LXNwcmVhZHM=",
-          "urlToImage": null,
-          "publishedAt": "2022-06-13T09:46:32Z",
-          "content": "To continue, please click the box below to let us know you're not a robot."
+      "author": "Matt Novak",
+      "title": "Celsius Crypto Platform Halts All Withdrawals as Bitcoin Tanks Over 13% - Gizmodo",
+      "description": "Bitcoin has plunged below $24,000, its lowest level since December 2020.",
+      "url": "https://gizmodo.com/celsius-bitcoin-price-crypto-withdrawals-scam-money-tan-1849051951",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/175b28e22e3514f5ac2ea224dccefdd0.png",
+      "publishedAt": "2022-06-13T10:05:00Z",
+      "content": "The Celsius crypto network has halted all trading, including withdrawals, according to a press release from the company released overnight. The unusual move comes as major cryptocurrencies plummeted … [+5040 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "MarketWatch"
-          },
-          "author": "Steve Goldstein",
-          "title": "Dow futures slump nearly 600 points as second day of selling in store after inflation shock - MarketWatch",
-          "description": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead...",
-          "url": "https://www.marketwatch.com/story/dow-futures-slump-nearly-600-points-as-second-day-of-selling-in-store-after-inflation-shock-11655112630",
-          "urlToImage": "https://images.mktw.net/im-562475/social",
-          "publishedAt": "2022-06-13T09:30:00Z",
-          "content": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead of a Federal Reserve interest-rate decisi… [+1945 chars]"
+      "author": null,
+      "title": "Bitcoin Price (BTCUSD) Falls 9% to $25,000 Level, Lowest Since December 2020 - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=74d559f7-eb18-11ec-abff-4f4b6f526d4d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNi0xMy9iaXRjb2luLXNpbmtzLXRvLTE4LW1vbnRoLWxvdy1hcy11cy1pbmZsYXRpb24taW1wYWN0LXNwcmVhZHM=",
+      "urlToImage": null,
+      "publishedAt": "2022-06-13T09:46:32Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "As.com"
-          },
-          "author": "Calum Roche",
-          "title": "USA finance and payments live updates: Child Tax Credit, Inflation, interest rates, CPI report, S.S. disabilit - AS USA",
-          "description": "Follow all the latest news, views and reactions related to the US economic landscape as reports show inflation increased one percent in May.",
-          "url": "https://en.as.com/latest_news/usa-finance-and-payments-live-updates-child-tax-credit-inflation-interest-rates-cpi-report-ss-disability-n-3/",
-          "urlToImage": "https://img.asmedia.epimg.net/resizer/aVpETxxYuynh7qc-OGwFNQOKmGI=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Y3I2LRWCKNF47KR7NJH4KS45CE.jpg",
-          "publishedAt": "2022-06-13T09:29:40Z",
-          "content": "Jobs front of mind as Fed tightens monetary policy\r\nThe healthy finances of U.S. banks, companies and households, trumpeted during the pandemic by Federal Reserve officials as a source of resilience,… [+1294 chars]"
+      "author": "Steve Goldstein",
+      "title": "Dow futures slump nearly 600 points as second day of selling in store after inflation shock - MarketWatch",
+      "description": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead...",
+      "url": "https://www.marketwatch.com/story/dow-futures-slump-nearly-600-points-as-second-day-of-selling-in-store-after-inflation-shock-11655112630",
+      "urlToImage": "https://images.mktw.net/im-562475/social",
+      "publishedAt": "2022-06-13T09:30:00Z",
+      "content": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead of a Federal Reserve interest-rate decisi… [+1945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "As.com"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "Decrypt"
-          },
-          "author": "Sujith Somraaj",
-          "title": "Bitcoin Liquidations Top $300M as Top Cryptocurrencies Shed Double Digits - Decrypt",
-          "description": "Bitcoin and Ethereum are both down by double digits over the past 24 hours, as investors flee DeFi lending following Celsius’ crash.",
-          "url": "https://decrypt.co/102723/bitcoin-liquidations-top-300m-as-top-crypto-tokens-shed-double-digits",
-          "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/Bitcoin-Price-Crash-gID_6.jpg",
-          "publishedAt": "2022-06-13T09:24:19Z",
-          "content": "Bitcoin (BTC) and Ethereum (ETH) have both slipped by double digits over the past 24 hours, sparking a wave of liquidations.\r\nBitcoin, the largest cryptocurrency with a market capitalization of over … [+2965 chars]"
+      "author": "Calum Roche",
+      "title": "USA finance and payments live updates: Child Tax Credit, Inflation, interest rates, CPI report, S.S. disabilit - AS USA",
+      "description": "Follow all the latest news, views and reactions related to the US economic landscape as reports show inflation increased one percent in May.",
+      "url": "https://en.as.com/latest_news/usa-finance-and-payments-live-updates-child-tax-credit-inflation-interest-rates-cpi-report-ss-disability-n-3/",
+      "urlToImage": "https://img.asmedia.epimg.net/resizer/aVpETxxYuynh7qc-OGwFNQOKmGI=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Y3I2LRWCKNF47KR7NJH4KS45CE.jpg",
+      "publishedAt": "2022-06-13T09:29:40Z",
+      "content": "Jobs front of mind as Fed tightens monetary policy\r\nThe healthy finances of U.S. banks, companies and households, trumpeted during the pandemic by Federal Reserve officials as a source of resilience,… [+1294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
       },
-      {
-          "source": {
-              "id": "the-wall-street-journal",
-              "name": "The Wall Street Journal"
-          },
-          "author": "Chelsey Dulaney, Dave Sebastian",
-          "title": "S&P 500 Poised for Bear Market as Stock Futures Drop - The Wall Street Journal",
-          "description": "Investors raise bets on aggressive Federal Reserve interest-rate increases after U.S. inflation data",
-          "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-13-2022-11655088638",
-          "urlToImage": "https://images.wsj.net/im-562419/social",
-          "publishedAt": "2022-06-13T09:15:00Z",
-          "content": "The S&amp;P 500 was on track to open in bear market territory, while global stocks tumbled and bond yields jumped as fears over inflation rattled investors around the world.\r\nFutures for the S&amp;P … [+343 chars]"
+      "author": "Sujith Somraaj",
+      "title": "Bitcoin Liquidations Top $300M as Top Cryptocurrencies Shed Double Digits - Decrypt",
+      "description": "Bitcoin and Ethereum are both down by double digits over the past 24 hours, as investors flee DeFi lending following Celsius’ crash.",
+      "url": "https://decrypt.co/102723/bitcoin-liquidations-top-300m-as-top-crypto-tokens-shed-double-digits",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/Bitcoin-Price-Crash-gID_6.jpg",
+      "publishedAt": "2022-06-13T09:24:19Z",
+      "content": "Bitcoin (BTC) and Ethereum (ETH) have both slipped by double digits over the past 24 hours, sparking a wave of liquidations.\r\nBitcoin, the largest cryptocurrency with a market capitalization of over … [+2965 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "MarketWatch"
-          },
-          "author": "Steve Goldstein",
-          "title": "MicroStrategy shares slump as bitcoin margin call looms - MarketWatch",
-          "description": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.",
-          "url": "https://www.marketwatch.com/story/microstrategy-shares-slump-as-bitcoin-margin-call-looms-11655111047",
-          "urlToImage": "https://images.mktw.net/im-349695/social",
-          "publishedAt": "2022-06-13T09:04:00Z",
-          "content": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.MicroStrategy \r\n MSTR,\r\n -6.61%\r\nshares slumped 21% in premarket trade. Heading into Monday, th… [+1439 chars]"
+      "author": "Chelsey Dulaney, Dave Sebastian",
+      "title": "S&P 500 Poised for Bear Market as Stock Futures Drop - The Wall Street Journal",
+      "description": "Investors raise bets on aggressive Federal Reserve interest-rate increases after U.S. inflation data",
+      "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-13-2022-11655088638",
+      "urlToImage": "https://images.wsj.net/im-562419/social",
+      "publishedAt": "2022-06-13T09:15:00Z",
+      "content": "The S&amp;P 500 was on track to open in bear market territory, while global stocks tumbled and bond yields jumped as fears over inflation rattled investors around the world.\r\nFutures for the S&amp;P … [+343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
       },
-      {
-          "source": {
-              "id": "cnn",
-              "name": "CNN"
-          },
-          "author": "Zahra Ullah, Fred Pleitgen, Josh Pennington",
-          "title": "Rebranded McDonald's restaurants are unveiled in Russia - CNN",
-          "description": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonald's restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.",
-          "url": "https://www.cnn.com/2022/06/12/business-food/mcdonalds-restaurant-replacement-russia-ukraine-intl/index.html",
-          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220612082509-01-russia-mcdonalds-rebrand.jpg?c=16x9&q=w_800,c_fill",
-          "publishedAt": "2022-06-13T07:27:00Z",
-          "content": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonalds restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.\r\nThe Amer… [+5815 chars]"
+      "author": "Steve Goldstein",
+      "title": "MicroStrategy shares slump as bitcoin margin call looms - MarketWatch",
+      "description": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.",
+      "url": "https://www.marketwatch.com/story/microstrategy-shares-slump-as-bitcoin-margin-call-looms-11655111047",
+      "urlToImage": "https://images.mktw.net/im-349695/social",
+      "publishedAt": "2022-06-13T09:04:00Z",
+      "content": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.MicroStrategy \r\n MSTR,\r\n -6.61%\r\nshares slumped 21% in premarket trade. Heading into Monday, th… [+1439 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
       },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": null,
-          "title": "Yen falls to lowest level since 1998 as U.S. yields march higher - Reuters.com",
-          "description": "The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data drove U.S. Treasury yields higher.",
-          "url": "https://www.reuters.com/markets/us/dollar-climbs-135-yen-us-yields-march-higher-2022-06-13/",
-          "urlToImage": "https://www.reuters.com/resizer/FC9a04IAaSZ4QMHebImmldd-lhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PBTAYAFQ3FK6ZLTS7HBH3JTQPI.jpg",
-          "publishedAt": "2022-06-13T07:25:00Z",
-          "content": "HONG KONG, June 13 (Reuters) - The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data … [+3654 chars]"
+      "author": "Zahra Ullah, Fred Pleitgen, Josh Pennington",
+      "title": "Rebranded McDonald's restaurants are unveiled in Russia - CNN",
+      "description": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonald's restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.",
+      "url": "https://www.cnn.com/2022/06/12/business-food/mcdonalds-restaurant-replacement-russia-ukraine-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220612082509-01-russia-mcdonalds-rebrand.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-06-13T07:27:00Z",
+      "content": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonalds restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.\r\nThe Amer… [+5815 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
       },
-      {
-          "source": {
-              "id": "business-insider",
-              "name": "Business Insider"
-          },
-          "author": "Huileng Tan",
-          "title": "Mohamed El-Erian says inflation could hit 9%, criticizes Fed - Markets Insider",
-          "description": "US inflation surged to a 41-year-high of 8.6% in the year through May, according to data the Bureau of Labor Statistics released on Friday.",
-          "url": "https://markets.businessinsider.com/news/stocks/inflation-could-hit-9-percent-el-erian-criticises-fed-2022-6",
-          "urlToImage": "https://i.insider.com/62a6b6706053710019e9e3a1?width=1200&format=jpeg",
-          "publishedAt": "2022-06-13T06:17:28Z",
-          "content": "Top economist Mohamed El-Erian said US inflation may reach 9% and criticized the \r\nFederal Reserve for not acting sooner to tackle price increases.\r\nThe comments from El-Erian, who is chief economic … [+2501 chars]"
+      "author": null,
+      "title": "Yen falls to lowest level since 1998 as U.S. yields march higher - Reuters.com",
+      "description": "The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data drove U.S. Treasury yields higher.",
+      "url": "https://www.reuters.com/markets/us/dollar-climbs-135-yen-us-yields-march-higher-2022-06-13/",
+      "urlToImage": "https://www.reuters.com/resizer/FC9a04IAaSZ4QMHebImmldd-lhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PBTAYAFQ3FK6ZLTS7HBH3JTQPI.jpg",
+      "publishedAt": "2022-06-13T07:25:00Z",
+      "content": "HONG KONG, June 13 (Reuters) - The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data … [+3654 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-          "source": {
-              "id": "financial-times",
-              "name": "Financial Times"
-          },
-          "author": "Antoni Slodkowski, Eri Sugiura, Leo Lewis",
-          "title": "Yen hits 24-year low against the dollar as Japan sticks to loose monetary policy - Financial Times",
-          "description": "Japanese currency comes under further pressure as US Treasury yields rise",
-          "url": "https://www.ft.com/content/8e80fda6-7d44-4914-a41c-d289684b5376",
-          "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f96546d-556f-47e6-8d05-674f71d72897.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "publishedAt": "2022-06-13T06:00:31Z",
-          "content": "The yen plunged to a 24-year low of ¥135.19 against the dollar on Monday, with the currency’s slide drawing increasing scrutiny from Japanese authorities wary of its rapid weakening.\r\nFollowing a wee… [+3096 chars]"
+      "author": "Huileng Tan",
+      "title": "Mohamed El-Erian says inflation could hit 9%, criticizes Fed - Markets Insider",
+      "description": "US inflation surged to a 41-year-high of 8.6% in the year through May, according to data the Bureau of Labor Statistics released on Friday.",
+      "url": "https://markets.businessinsider.com/news/stocks/inflation-could-hit-9-percent-el-erian-criticises-fed-2022-6",
+      "urlToImage": "https://i.insider.com/62a6b6706053710019e9e3a1?width=1200&format=jpeg",
+      "publishedAt": "2022-06-13T06:17:28Z",
+      "content": "Top economist Mohamed El-Erian said US inflation may reach 9% and criticized the \r\nFederal Reserve for not acting sooner to tackle price increases.\r\nThe comments from El-Erian, who is chief economic … [+2501 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
       },
-      {
-          "source": {
-              "id": null,
-              "name": "New York Times"
-          },
-          "author": "Nico Grant",
-          "title": "Google Agrees to Pay $118 Million to Settle Pay Discrimination Case - The New York Times",
-          "description": "The tech giant admitted no wrongdoing as it resolved four women’s claims of widespread pay biases. The company will also allow an outside monitor to review its practices.",
-          "url": "https://www.nytimes.com/2022/06/12/business/google-discrimination-settlement-women.html",
-          "urlToImage": "https://static01.nyt.com/images/2022/06/12/multimedia/12google-01/12google-01-facebookJumbo.jpg",
-          "publishedAt": "2022-06-13T05:44:00Z",
-          "content": "Google has settled a class-action lawsuit that accused it of systematically underpaying women, promising to provide $118 million in monetary relief and invite outsiders to review its pay practices.\r\n… [+772 chars]"
-      }
+      "author": "Antoni Slodkowski, Eri Sugiura, Leo Lewis",
+      "title": "Yen hits 24-year low against the dollar as Japan sticks to loose monetary policy - Financial Times",
+      "description": "Japanese currency comes under further pressure as US Treasury yields rise",
+      "url": "https://www.ft.com/content/8e80fda6-7d44-4914-a41c-d289684b5376",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f96546d-556f-47e6-8d05-674f71d72897.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-06-13T06:00:31Z",
+      "content": "The yen plunged to a 24-year low of ¥135.19 against the dollar on Monday, with the currency’s slide drawing increasing scrutiny from Japanese authorities wary of its rapid weakening.\r\nFollowing a wee… [+3096 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Nico Grant",
+      "title": "Google Agrees to Pay $118 Million to Settle Pay Discrimination Case - The New York Times",
+      "description": "The tech giant admitted no wrongdoing as it resolved four women’s claims of widespread pay biases. The company will also allow an outside monitor to review its practices.",
+      "url": "https://www.nytimes.com/2022/06/12/business/google-discrimination-settlement-women.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/06/12/multimedia/12google-01/12google-01-facebookJumbo.jpg",
+      "publishedAt": "2022-06-13T05:44:00Z",
+      "content": "Google has settled a class-action lawsuit that accused it of systematically underpaying women, promising to provide $118 million in monetary relief and invite outsiders to review its pay practices.\r\n… [+772 chars]"
+    }
   ]
 }

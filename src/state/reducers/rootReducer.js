@@ -6,7 +6,7 @@ const rootReducer = (state = initialState, action) => {
       return {
         ...state,
         newsFeed: action.payload,
-        newsSearch: action.payload
+          newsSearch: action.payload
       }
 
       default:

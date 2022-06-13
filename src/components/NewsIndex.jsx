@@ -20,7 +20,6 @@ const NewsIndex = () => {
   };
   const listOfTopHeadlines = articles.map((article) => {
     return <NewsCard article={article} />;
-    
   });
   return (
     <>
