@@ -12,21 +12,14 @@ const NewsIndex = () => {
   }, []);
 
   const newsList = articles.map((article) => {
-    return (
-     
-      <NewsCard article={ article}/>
-    );
+    return <NewsCard article={article} />;
   });
 
   return (
-     
     <>
-      <Grid data-cy="news-list">
-        {newsList}
-      </Grid>
+      <Grid data-cy="news-list">{newsList}</Grid>
     </>
   );
-  
 };
 
 export default NewsIndex;
