@@ -1,10 +1,13 @@
-describe("Display news headlines", () => {
+describe("Display news from search results", () => {
   before(() => {
-    cy.intercept("GET", "https://newsapi.org/v2/top-headlines**", {
-      fixture: "news_index.json",
+    cy.intercept("GET", "https://newsapi.org/v2/everything**", {
+      fixture: "newsSearch_response.json",
     });
     cy.visit("/");
+    cy.get("[data-cy=input_search]").type("bitcon");
+    cy.get(".ui button").click();
   });
+
   it("is expected to see a header", () => {
     cy.get("[data-cy=news-header]").should("contain", "News Wire Network");
   });
@@ -13,7 +16,7 @@ describe("Display news headlines", () => {
     cy.get("[data-cy=articles]").children().should("have.length", 20);
   });
 
-  describe("user can see list of news", () => {
+  describe("can see list of news", () => {
     it("is expected to see first article", () => {
       cy.get("[data-cy=articles]")
         .first()
@@ -21,10 +24,10 @@ describe("Display news headlines", () => {
           cy.get(".image").should("exist");
           cy.get(".header").should(
             "contain",
-            "Huge sell-off rocks Treasury markets, yield curve inverts"
+            ""
           );
           cy.get(".description").should("exist");
         });
     });
   });
-})
+});

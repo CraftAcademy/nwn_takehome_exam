@@ -1,266 +1,265 @@
 {
   "status": "ok",
-  "totalResults": 6635,
-  "articles": [
-    {
+  "totalResults": 69,
+  "articles": [{
       "source": {
-        "id": null,
-        "name": "Slashdot.org"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "modemflame5",
-      "title": "How Do Bitcoin Transactions Work?",
-      "description": "Moreover Bitcoin works as an investment take benefit cryptocurrency and so forth also. But that changed on their Bitcoin HYIP the corporation has modified the investment. Engineers of Bitcoin SV designers can seize info regarding mining OS that. Mining the cu…",
-      "url": "https://slashdot.org/submission/12891278/how-do-bitcoin-transactions-work",
-      "urlToImage": null,
-      "publishedAt": "2020-12-10T21:34:39Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "WWS Swiss Financial Consulting SA",
-      "title": "The Future Of The U.S. Dollar",
-      "description": "The US dollar is still the primary international global reserve currency and still figures as the most important currency in Forex markets.",
-      "url": "https://seekingalpha.com/article/4394136-future-of-u-s-dollar",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-12-10T21:27:44Z",
-      "content": "The US Dollar Is Still in First Place\r\nThe role of the US dollar in international finance is well established. The greenback is still the main global reserve currency and makes up about 60% of centra… [+9093 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Lisa Butters, Brand Contributor, \n Lisa Butters, Brand Contributor\n https://www.forbes.com/sites/gradsoflife/people/lisabutters/",
-      "title": "How To Build A Trusted Brand In An Untrusted World: Blockchain",
-      "description": "Blockchain technology helped Honeywell’s GoDirect Trade digitize a stubbornly analog marketplace. By bolstering consumer confidence, it can help your business shatter barriers of its own.",
-      "url": "https://www.forbes.com/sites/honeywell/2020/12/10/how-to-build-a-trusted-brand-in-an-untrusted-world-blockchain/",
-      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd2651e5680b59456e3d2bc%2F0x0.jpg",
-      "publishedAt": "2020-12-10T21:25:37Z",
-      "content": "Blockchain technology helped Honeywells GoDirect Trade digitize a stubbornly analog marketplace. By bolstering consumer confidence, it can help your business shatter barriers of its own.\r\nThe pandemi… [+8683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Daniel Cawrey",
-      "title": "Market Wrap: Bitcoin Slides Below $18K as ETH Is More Volatile Than BTC in 2020",
-      "description": "Bitcoin slipped below $18,000 again Thursday as ether’s volatility in 2020 shows a different dynamic than BTC.",
-      "url": "https://www.coindesk.com/market-wrap-bitcoin-slides-eth-volatile",
-      "urlToImage": "https://static.coindesk.com/wp-content/uploads/2020/12/cdbpidec10-1200x628.jpg",
-      "publishedAt": "2020-12-10T21:25:19Z",
-      "content": "Weak volumes and rotations into other cryptocurrencies are likely impeding bitcoins price movement from going higher. Meanwhile, ether has been more volatile than bitcoin in 2020 and could remain tha… [+4036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wykop.pl"
-      },
-      "author": "bitcoinpl",
-      "title": "Bitcoin a Cyberpunk 2077. Co mają wspólnego?",
-      "description": "\"Cyberpunk 2077\" - dzieło polskiego studia CD Projekt to z pewnością nagłośniejszy i najbardziej wyczekiwany tytuł tego roku. Nic w tym dziwnego, bo gracze czekali na tę produkcję od maja 2012, kiedy to firma opublikowała pierwszą zapowiedź. Apetyt społecznoś…",
-      "url": "https://www.wykop.pl/link/5844191/bitcoin-a-cyberpunk-2077-co-maja-wspolnego/",
-      "urlToImage": "https://www.wykop.pl/cdn/c3397993/link_1607635232mkgsuESHBgRN8zAMzyJXsI,w1200h627f.jpg",
-      "publishedAt": "2020-12-10T21:23:41Z",
-      "content": "Drogi Wykopowiczu\r\nw zaczonym linku do Polityki Prywatnoci przypominamy podstawowe informacje z zakresu przetwarzania danych osobowych dostarczanych przez Ciebie podczas korzystania z naszego serwisu… [+108 chars]"
+      "author": null,
+      "title": "Huge sell-off rocks Treasury markets, yield curve inverts - Reuters.com",
+      "description": "U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates may rise faster and further than anticipated.",
+      "url": "https://www.reuters.com/business/huge-selloff-rocks-treasury-markets-yield-curve-inverts-2022-06-13/",
+      "urlToImage": "https://www.reuters.com/resizer/E3oCN4HRiOthLarlEAdZOyeInkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AW67U5BW4BICNDITFH7UDX73BU.jpg",
+      "publishedAt": "2022-06-13T12:12:00Z",
+      "content": "June 13 (Reuters) - U.S. two-year Treasury yields rose above 10-year borrowing costs on Monday - the so-called curve inversion that often heralds economic recession - on expectations interest rates m… [+3297 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "bwinck@businessinsider.com (Ben Winck)",
-      "title": "US stocks waver as investors digest rising jobless claims and stimulus gridlock",
-      "description": "New US weekly jobless claims unexpectedly jumped to an 11-week high, while continuing claims posted its first weekly increase since August.",
-      "url": "https://www.businessinsider.com/stock-market-news-today-surprise-jobless-continuing-claims-stimulus-gridlock-2020-12",
-      "urlToImage": "https://i.insider.com/5fd287b37b7e05001910746d?width=1200&format=jpeg",
-      "publishedAt": "2020-12-10T21:18:13Z",
-      "content": "<ul><li>US stocks closed mixed on Thursday amid disappointing economic data and slowed stimulus progress.</li><li>The S&amp;P 500 and Dow Jones industrial average fell, while tech giants led the Nasd… [+5433 chars]"
+      "author": "Stephen Jones",
+      "title": "United flier had to buy clothes after 13-hour delay, luggage missing - Business Insider",
+      "description": "A United customer meant to fly to San Diego but had to drive two hours after she could only secure a flight to LA13 hours later, reports say.",
+      "url": "https://www.businessinsider.com/united-airlines-passenger-bought-clothes-target-flight-delay-2022-6",
+      "urlToImage": "https://i.insider.com/62a7104d6053710019e9e6ea?width=1200&format=jpeg",
+      "publishedAt": "2022-06-13T12:04:48Z",
+      "content": "A sales coordinator was forced to buy new clothes and drive two hours to her destination, after her luggage was left off a United airlines flight that departed 13 hours she had been due to travel.\r\nT… [+2275 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Drunkenstepfather.com"
+        "name": "CNBC"
       },
-      "author": "Montana Banks",
-      "title": "Sophie Mudd Tits for Will Ferrell of the Day",
-      "description": "Sophie Mudd built her IG audience because she’s got huge tits, but then she decided to take the higher road and not be shameless about her tits, all while still having tits…it was something I felt she should have been unfollowed and punished for…it’s called a…",
-      "url": "https://drunkenstepfather.com/2020/12/10/sophie-mudd-tits-for-will-ferrell",
-      "urlToImage": null,
-      "publishedAt": "2020-12-10T21:04:45Z",
-      "content": "Sophie Mudd built her IG audience because she’s got huge tits, but then she decided to take the higher road and not be shameless about her tits, all while still having tits…it was something I felt sh… [+2255 chars]"
+      "author": "John Rosevear",
+      "title": "EV start-up Electric Last Mile Solutions plans to declare bankruptcy a year after going public - CNBC",
+      "description": "The Michigan-based start-up will move to liquidate less than a year after it went public.",
+      "url": "https://www.cnbc.com/2022/06/13/ev-start-up-electric-last-mile-solutions-to-declare-bankruptcy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106903351-1624887140914-IMG_5346_HR.jpg?v=1624887504&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:57:00Z",
+      "content": "EV start-up Electric Last Mile Solutions said late Sunday it plans to file for bankruptcy less than a year after it went public via a merger with a special purpose acquisition company.\r\nThe Michigan-… [+974 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Zerohedge.com"
+        "name": "CNBC"
       },
-      "author": "Tyler Durden",
-      "title": "Bonds & Black Gold Bid As Negative Nabobs Battle New Issue Nirvanans",
-      "description": "Bonds & Black Gold Bid As Negative Nabobs Battle New Issue Nirvanans\n\n Tyler Durden\n \nThu, 12/10/2020 - 16:02\n\n Another day, another astoundingly exuberant bid for an IPO as AirBnB opened with one of the biggest pops ($146 vs $68 IPO) since 2008 seemingly con…",
-      "url": "https://www.zerohedge.com/markets/bonds-black-gold-bid-stocks-skid-negative-nattering-nabobs-battle-new-issue-nirvana",
-      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-12/2020-12-10_11-51-06.jpg?itok=c4j1Y3PR",
-      "publishedAt": "2020-12-10T21:02:06Z",
-      "content": "Another day, another astoundingly exuberant bid for an IPO as AirBnB opened with one of the biggest pops ($146 vs $68 IPO) since 2008 seemingly confirming JPMorgan's \"market nirvana\" argument. But, \"… [+2824 chars]"
+      "author": "Jesse Pound",
+      "title": "Goldman's advice to clients during sell-off: Buy stocks with 'margin of safety' - CNBC",
+      "description": "These stocks are already trading below historical valuation levels, according to Goldman Sachs.",
+      "url": "https://www.cnbc.com/2022/06/13/goldmans-advice-to-clients-during-sell-off-buy-stocks-with-margin-of-safety.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106921257-16280112952021-08-03t155626z_1780090829_rc2rxo9n39pg_rtrmadp_0_health-coronavirus-tyson-foods.jpeg?v=1628011391&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:14:41Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Solutions Review"
+        "name": "CNBC"
       },
-      "author": "Ben Canner",
-      "title": "2021 Predictions: The Year of Malicious Automation by Brad LaPorte",
-      "description": "We’re pleased to announce that the First Annual Cybersecurity Insight Jam proved a wild success. We want to thank both our audience and all of our participants for their involvement and engagement. Dozens of vendors, cybersecurity experts, and researchers sha…",
-      "url": "https://solutionsreview.com/endpoint-security/2021-predictions-the-year-of-malicious-automation-by-brad-laporte/",
-      "urlToImage": "https://solutionsreview.com/endpoint-security/files/2019/05/fileless-malware-mod.jpg",
-      "publishedAt": "2020-12-10T20:57:00Z",
-      "content": "We’re pleased to announce that the First Annual Cybersecurity Insight Jam proved a wild success. We want to thank both our audience and all of our participants for their involvement and engagement.\r\n… [+4666 chars]"
+      "author": "Arjun Kharpal",
+      "title": "Tesla fires Singapore country manager after Elon Musk warns of job cuts - CNBC",
+      "description": "Tesla CEO Elon Musk recently told employees about plans to reduce salaried headcount by 10%.",
+      "url": "https://www.cnbc.com/2022/06/13/tesla-fires-singapore-country-manager-after-elon-musk-warns-of-job-cuts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107074660-1655116266416-gettyimages-1240065676-WESTFIELD_MALLS.jpeg?v=1655116502&w=1920&h=1080",
+      "publishedAt": "2022-06-13T11:02:09Z",
+      "content": "Tesla has laid off its Singapore country manager just over a week after the electric carmaker's CEO Elon Musk warned of global job cuts.\r\nChristopher Bousigues posted on LinkedIn on Sunday that his r… [+1062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Barbara Kollmeyer",
+      "title": "The S&P 500 is clinging to a key support level after Friday's meltdown, here's what happens if that fails - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-clinging-to-a-key-support-level-after-fridays-meltdown-heres-what-happens-if-that-fails-11655116420",
+      "urlToImage": "https://images.mktw.net/im-562484/social",
+      "publishedAt": "2022-06-13T10:33:00Z",
+      "content": "Last weeks shock U.S. inflation number continues to tear through markets, with dip buyers seemingly in hiding. Hardest hit Nasdaq-100 futures are down 3%.Investors are now focused squarely on Wednesd… [+7379 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura He, CNN Business",
+      "title": "Ikea is considering closing another store in China - CNN",
+      "description": "Ikea has already shut one store in mainland China this year and could close another in Shanghai in early July.",
+      "url": "https://www.cnn.com/2022/06/13/business/ikea-closing-shanghai-store-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220613105525-ikea-yangpu-super-tease.jpg",
+      "publishedAt": "2022-06-13T10:19:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Google suspends engineer who claims its AI is sentient - The Verge",
+      "description": "Google has placed engineer Blake Lemoine on paid administrative leave for allegedly breaking its confidentiality policies when he grew concerned that an AI chatbot system had achieved sentience.",
+      "url": "https://www.theverge.com/2022/6/13/23165535/google-suspends-ai-artificial-intelligence-engineer-sentient",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/reUdXQgmEtODsXLQNnBc9Q54CAE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10802115/akrales_180508_2553_0039.jpg",
+      "publishedAt": "2022-06-13T10:15:49Z",
+      "content": "It claims Blake Lemoine breached its confidentiality policies\r\nIts LaMDA system is built to make AI more conversational.\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nGoogle has placed one of its eng… [+4028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Celsius Crypto Platform Halts All Withdrawals as Bitcoin Tanks Over 13% - Gizmodo",
+      "description": "Bitcoin has plunged below $24,000, its lowest level since December 2020.",
+      "url": "https://gizmodo.com/celsius-bitcoin-price-crypto-withdrawals-scam-money-tan-1849051951",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/175b28e22e3514f5ac2ea224dccefdd0.png",
+      "publishedAt": "2022-06-13T10:05:00Z",
+      "content": "The Celsius crypto network has halted all trading, including withdrawals, according to a press release from the company released overnight. The unusual move comes as major cryptocurrencies plummeted … [+5040 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Olga Kharif",
-      "title": "169-Year-Old Insurer MassMutual Invests $100 Million in Bitcoin",
-      "description": "169-Year-Old Insurer MassMutual Invests $100 Million in Bitcoinbloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2020-12-10/169-year-old-insurer-massmutual-invests-100-million-in-bitcoin",
+      "author": null,
+      "title": "Bitcoin Price (BTCUSD) Falls 9% to $25,000 Level, Lowest Since December 2020 - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=74d559f7-eb18-11ec-abff-4f4b6f526d4d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNi0xMy9iaXRjb2luLXNpbmtzLXRvLTE4LW1vbnRoLWxvdy1hcy11cy1pbmZsYXRpb24taW1wYWN0LXNwcmVhZHM=",
       "urlToImage": null,
-      "publishedAt": "2020-12-10T20:45:06Z",
-      "content": null
+      "publishedAt": "2022-06-13T09:46:32Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
     },
     {
       "source": {
         "id": null,
-        "name": "FXStreet"
+        "name": "MarketWatch"
       },
-      "author": "Lorenzo Stroe",
-      "title": "DBS Bank to launch cryptocurrency exchange after condemning Bitcoin a Ponzi scheme in 2017",
-      "description": "DBS Bank of Singapore has just announced the launch of a digital asset exchange featuring Bitcoin, Ethereum, Bitcoin Cash, and XRP and several fiat cu",
-      "url": "https://www.fxstreet.com/cryptocurrencies/news/dbs-bank-to-launch-cryptocurrency-exchange-after-condemning-bitcoin-a-ponzi-scheme-in-2017-202012102029",
-      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Digital Currencies/Bitcoin/bitcoins-52602600_Large.jpg",
-      "publishedAt": "2020-12-10T20:29:20Z",
-      "content": "Note: All information on this page is subject to change. The use of this website constitutes acceptance of our user agreement. Please read our privacy policy and legal disclaimer.\r\nTrading foreign ex… [+1338 chars]"
+      "author": "Steve Goldstein",
+      "title": "Dow futures slump nearly 600 points as second day of selling in store after inflation shock - MarketWatch",
+      "description": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead...",
+      "url": "https://www.marketwatch.com/story/dow-futures-slump-nearly-600-points-as-second-day-of-selling-in-store-after-inflation-shock-11655112630",
+      "urlToImage": "https://images.mktw.net/im-562475/social",
+      "publishedAt": "2022-06-13T09:30:00Z",
+      "content": "U.S. stock futures looked set to break below the lows of May, as financial markets continue to reel from a surprise acceleration in inflation just days ahead of a Federal Reserve interest-rate decisi… [+1945 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "newsBTC"
+        "name": "As.com"
       },
-      "author": "Cole Petersen",
-      "title": "Bitcoin Weak on Lower-Time Frames as Analysts Eye Move to $17,000 Region",
-      "description": "Bitcoin has been flashing some signs of intense weakness throughout the past few days and weeks, which has caused the cryptocurrency’s price to decline below $18,000 on a few occasions. So far, the buying pressure here has been significant enough to catalyze …",
-      "url": "https://www.newsbtc.com/analysis/btc/bitcoin-weak-on-lower-time-frames-as-analysts-eye-move-to-17000-region/",
-      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/12/shutterstock_204663208.jpg",
-      "publishedAt": "2020-12-10T20:21:15Z",
-      "content": "Bitcoin has been flashing some signs of intense weakness throughout the past few days and weeks, which has caused the cryptocurrency’s price to decline below $18,000 on a few occasions.\r\nSo far, the … [+2152 chars]"
+      "author": "Calum Roche",
+      "title": "USA finance and payments live updates: Child Tax Credit, Inflation, interest rates, CPI report, S.S. disabilit - AS USA",
+      "description": "Follow all the latest news, views and reactions related to the US economic landscape as reports show inflation increased one percent in May.",
+      "url": "https://en.as.com/latest_news/usa-finance-and-payments-live-updates-child-tax-credit-inflation-interest-rates-cpi-report-ss-disability-n-3/",
+      "urlToImage": "https://img.asmedia.epimg.net/resizer/aVpETxxYuynh7qc-OGwFNQOKmGI=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Y3I2LRWCKNF47KR7NJH4KS45CE.jpg",
+      "publishedAt": "2022-06-13T09:29:40Z",
+      "content": "Jobs front of mind as Fed tightens monetary policy\r\nThe healthy finances of U.S. banks, companies and households, trumpeted during the pandemic by Federal Reserve officials as a source of resilience,… [+1294 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PRNewswire"
+        "name": "Decrypt"
       },
-      "author": null,
-      "title": "Institutional Bitcoin Provider NYDIG Announces Minority Stake Purchase by MassMutual",
-      "description": "NEW YORK, Dec. 10, 2020 /PRNewswire/ -- NYDIG, a leading provider of institutional investment and technology solutions for Bitcoin, announced today that Massachusetts Mutual Life Insurance Company (MassMutual) has purchased a minority stake in the company. Al…",
-      "url": "https://prnmedia.prnewswire.com/news-releases/institutional-bitcoin-provider-nydig-announces-minority-stake-purchase-by-massmutual-301190811.html",
-      "urlToImage": null,
-      "publishedAt": "2020-12-10T20:18:00Z",
-      "content": null
+      "author": "Sujith Somraaj",
+      "title": "Bitcoin Liquidations Top $300M as Top Cryptocurrencies Shed Double Digits - Decrypt",
+      "description": "Bitcoin and Ethereum are both down by double digits over the past 24 hours, as investors flee DeFi lending following Celsius’ crash.",
+      "url": "https://decrypt.co/102723/bitcoin-liquidations-top-300m-as-top-crypto-tokens-shed-double-digits",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/Bitcoin-Price-Crash-gID_6.jpg",
+      "publishedAt": "2022-06-13T09:24:19Z",
+      "content": "Bitcoin (BTC) and Ethereum (ETH) have both slipped by double digits over the past 24 hours, sparking a wave of liquidations.\r\nBitcoin, the largest cryptocurrency with a market capitalization of over … [+2965 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "PRNewswire"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": null,
-      "title": "Institutional Bitcoin Provider NYDIG Announces Minority Stake Purchase by MassMutual",
-      "description": "NEW YORK, Dec. 10, 2020 /PRNewswire/ -- NYDIG, a leading provider of institutional investment and technology solutions for Bitcoin, announced today that Massachusetts Mutual Life Insurance Company (MassMutual) has purchased a minority stake in the company. Al…",
-      "url": "https://www.prnewswire.com/news-releases/institutional-bitcoin-provider-nydig-announces-minority-stake-purchase-by-massmutual-301190811.html",
-      "urlToImage": "https://mma.prnewswire.com/media/1311691/NYDIG_Logo.jpg?p=facebook",
-      "publishedAt": "2020-12-10T20:18:00Z",
-      "content": "NEW YORK, Dec. 10, 2020 /PRNewswire/ -- NYDIG\r\n, a leading provider of institutional investment and technology solutions for Bitcoin, announced today that Massachusetts Mutual Life Insurance Company … [+4429 chars]"
+      "author": "Chelsey Dulaney, Dave Sebastian",
+      "title": "S&P 500 Poised for Bear Market as Stock Futures Drop - The Wall Street Journal",
+      "description": "Investors raise bets on aggressive Federal Reserve interest-rate increases after U.S. inflation data",
+      "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-13-2022-11655088638",
+      "urlToImage": "https://images.wsj.net/im-562419/social",
+      "publishedAt": "2022-06-13T09:15:00Z",
+      "content": "The S&amp;P 500 was on track to open in bear market territory, while global stocks tumbled and bond yields jumped as fears over inflation rattled investors around the world.\r\nFutures for the S&amp;P … [+343 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MarketWatch"
       },
-      "author": "PR Newswire",
-      "title": "Institutional Bitcoin Provider NYDIG Announces Minority Stake Purchase by MassMutual",
-      "description": "NYDIG, a leading provider of institutional investment and technology solutions for Bitcoin, announced today that Massachusetts Mutual Life Insurance Company ...",
-      "url": "https://finance.yahoo.com/news/institutional-bitcoin-provider-nydig-announces-201800650.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SDbpqEB68WPWgwm91z35TA--~B/aD04Mzt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/3c508244ff5367423cb7a093e12be42f",
-      "publishedAt": "2020-12-10T20:18:00Z",
-      "content": "NEW YORK, Dec. 10, 2020 /PRNewswire/ -- NYDIG\r\n, a leading provider of institutional investment and technology solutions for Bitcoin, announced today that Massachusetts Mutual Life Insurance Company … [+4616 chars]"
+      "author": "Steve Goldstein",
+      "title": "MicroStrategy shares slump as bitcoin margin call looms - MarketWatch",
+      "description": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.",
+      "url": "https://www.marketwatch.com/story/microstrategy-shares-slump-as-bitcoin-margin-call-looms-11655111047",
+      "urlToImage": "https://images.mktw.net/im-349695/social",
+      "publishedAt": "2022-06-13T09:04:00Z",
+      "content": "MicroStrategy has vowed never to sell any of the approximately 130,000 bitcoin it has in its possession.MicroStrategy \r\n MSTR,\r\n -6.61%\r\nshares slumped 21% in premarket trade. Heading into Monday, th… [+1439 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Gareth Corfield",
-      "title": "'Malwareless' ransomware campaign operators pwned 83k victims' MySQL servers, 250k databases up for sale",
-      "description": "$500 a pop, $25k 'earned' and not much of a trace left, says Guardicore A “malwareless” ransomware campaign delivered from UK IP addresses targeting weak security controls around internet-facing SQL servers successfully pwned 83,000 victims, according to Isra…",
-      "url": "https://www.theregister.com/2020/12/10/mysql_malwareless_ransomware/",
-      "urlToImage": "https://regmedia.co.uk/2016/08/16/hacker.jpg",
-      "publishedAt": "2020-12-10T20:17:32Z",
-      "content": "A malwareless ransomware campaign delivered from UK IP addresses targeting weak security controls around internet-facing SQL servers successfully pwned 83,000 victims, according to Israeli infosec bi… [+3480 chars]"
+      "author": "Zahra Ullah, Fred Pleitgen, Josh Pennington",
+      "title": "Rebranded McDonald's restaurants are unveiled in Russia - CNN",
+      "description": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonald's restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.",
+      "url": "https://www.cnn.com/2022/06/12/business-food/mcdonalds-restaurant-replacement-russia-ukraine-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220612082509-01-russia-mcdonalds-rebrand.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-06-13T07:27:00Z",
+      "content": "The golden arches and Big Mac may have gone, but Russians saw 15 McDonalds restaurants reopen on Sunday under new branding and ownership, according to its owner Alexander Nikolaevich Govor.\r\nThe Amer… [+5815 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Bitcoin Magazine"
-      },
-      "author": "Nik Hoffman",
-      "title": "MassMutual Buys $100 Million Worth Of Bitcoin",
-      "description": "2020 has seen institutions buy into bitcoin at a record pace. The latest, major insurance company MassMutual, just made a nine-figure entry.\nThe post MassMutual Buys $100 Million Worth Of Bitcoin appeared first on Bitcoin Magazine.",
-      "url": "https://bitcoinmagazine.com/articles/massmutual-buys-100-million-worth-of-bitcoin",
-      "urlToImage": "https://bitcoinmagazine.com/wp-content/uploads/2019/10/Bit-1-1200x630-cropped.jpg",
-      "publishedAt": "2020-12-10T20:11:14Z",
-      "content": "The Massachusetts Mutual Life Insurance Company has jumped on the Bitcoin hype train with the announcement of its purchase of $100 million in BTC for its general insurance account, which totaled almo… [+1451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bitcoinist"
-      },
-      "author": "Cole Petersen",
-      "title": "Analyst Claims Ethereum is Almost Ready to See a Massive Markup to $800",
-      "description": "Ethereum has been struggling to break free of its connection to Bitcoin, with the benchmark cryptocurrency having massive control over its price action This has so far been quite bearish for ETH, as it has caused the cryptocurrency to see notable losses on mu…",
-      "url": "https://bitcoinist.com/analyst-claims-ethereum-is-almost-ready-to-see-a-massive-markup-to-800/",
-      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/11/nathan-dumlao-ipbVNCyRsX0-unsplash-1920x1280.jpg",
-      "publishedAt": "2020-12-10T20:00:33Z",
-      "content": "<ul><li>Ethereum has been struggling to break free of its connection to Bitcoin, with the benchmark cryptocurrency having massive control over its price action</li><li>This has so far been quite bear… [+2410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
+        "id": "reuters",
+        "name": "Reuters"
       },
       "author": null,
-      "title": "On The Hour",
-      "description": "Dow -0.43%.10-yr +0.18%.Euro +0.43% vs. dollar.Crude +3.01% to $46.89.Gold +0.02% to $1,838.95.Bitcoin +0.65% to $18,399..",
-      "url": "https://seekingalpha.com/news/3643442-on-hour?utm_source=feed_news_all&utm_medium=referral",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-12-10T20:00:23Z",
-      "content": null
+      "title": "Yen falls to lowest level since 1998 as U.S. yields march higher - Reuters.com",
+      "description": "The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data drove U.S. Treasury yields higher.",
+      "url": "https://www.reuters.com/markets/us/dollar-climbs-135-yen-us-yields-march-higher-2022-06-13/",
+      "urlToImage": "https://www.reuters.com/resizer/FC9a04IAaSZ4QMHebImmldd-lhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PBTAYAFQ3FK6ZLTS7HBH3JTQPI.jpg",
+      "publishedAt": "2022-06-13T07:25:00Z",
+      "content": "HONG KONG, June 13 (Reuters) - The yen tumbled to its lowest against the dollar in 24 years on Monday, as the gap between Japanese and U.S. benchmark yields widened after red hot U.S. inflation data … [+3654 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Huileng Tan",
+      "title": "Mohamed El-Erian says inflation could hit 9%, criticizes Fed - Markets Insider",
+      "description": "US inflation surged to a 41-year-high of 8.6% in the year through May, according to data the Bureau of Labor Statistics released on Friday.",
+      "url": "https://markets.businessinsider.com/news/stocks/inflation-could-hit-9-percent-el-erian-criticises-fed-2022-6",
+      "urlToImage": "https://i.insider.com/62a6b6706053710019e9e3a1?width=1200&format=jpeg",
+      "publishedAt": "2022-06-13T06:17:28Z",
+      "content": "Top economist Mohamed El-Erian said US inflation may reach 9% and criticized the \r\nFederal Reserve for not acting sooner to tackle price increases.\r\nThe comments from El-Erian, who is chief economic … [+2501 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Antoni Slodkowski, Eri Sugiura, Leo Lewis",
+      "title": "Yen hits 24-year low against the dollar as Japan sticks to loose monetary policy - Financial Times",
+      "description": "Japanese currency comes under further pressure as US Treasury yields rise",
+      "url": "https://www.ft.com/content/8e80fda6-7d44-4914-a41c-d289684b5376",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f96546d-556f-47e6-8d05-674f71d72897.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-06-13T06:00:31Z",
+      "content": "The yen plunged to a 24-year low of ¥135.19 against the dollar on Monday, with the currency’s slide drawing increasing scrutiny from Japanese authorities wary of its rapid weakening.\r\nFollowing a wee… [+3096 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "newsBTC"
+        "name": "New York Times"
       },
-      "author": "Tony Spilotro",
-      "title": "Why Massive Bitcoin Miner Outflow Has This Top Quant Analyst “Scared”",
-      "description": "Bitcoin price is still hanging onto $18,000 and is only a couple of grand shy of finally taking out $20,000 and beginning the new bull market. But BTC miners that should be holding in advance of mark up, are suddenly moving massive quantities of the cryptocur…",
-      "url": "https://www.newsbtc.com/analysis/btc/why-massive-bitcoin-miner-outflow-has-this-top-quant-analyst-scared/",
-      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/12/bitcoin-miner-outflow-btc-Depositphotos_8838317_xl-2015-scaled.jpg",
-      "publishedAt": "2020-12-10T20:00:21Z",
-      "content": "Bitcoin price is still hanging onto $18,000 and is only a couple of grand shy of finally taking out $20,000 and beginning the new bull market. But BTC miners that should be holding in advance of mark… [+3677 chars]"
+      "author": "Nico Grant",
+      "title": "Google Agrees to Pay $118 Million to Settle Pay Discrimination Case - The New York Times",
+      "description": "The tech giant admitted no wrongdoing as it resolved four women’s claims of widespread pay biases. The company will also allow an outside monitor to review its practices.",
+      "url": "https://www.nytimes.com/2022/06/12/business/google-discrimination-settlement-women.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/06/12/multimedia/12google-01/12google-01-facebookJumbo.jpg",
+      "publishedAt": "2022-06-13T05:44:00Z",
+      "content": "Google has settled a class-action lawsuit that accused it of systematically underpaying women, promising to provide $118 million in monetary relief and invite outsiders to review its pay practices.\r\n… [+772 chars]"
     }
   ]
 }
