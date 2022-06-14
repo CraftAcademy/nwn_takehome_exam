@@ -24,7 +24,7 @@ describe("Display news from search results", () => {
           cy.get(".image").should("exist");
           cy.get(".header").should(
             "contain",
-            "Snap shares are down 74% in 2022 — here’s why"
+            ""
           );
           cy.get(".description").should("exist");
         });
