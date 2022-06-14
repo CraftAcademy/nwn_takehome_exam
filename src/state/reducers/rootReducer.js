@@ -4,11 +4,16 @@ const rootReducer = (state, action) => {
     case "SET_NEWS_FEED":
       return {
         ...state,
-        newsFeed: action.payload
-      }
+        articles: action.payload
+      };
+    case "SET_SEARCH_FEED":
+      return {
+        ...state,
+        newsSearch: action.payload
+      };
 
     default:
-      return state
+      return state;
   }
 
 }
