@@ -23,7 +23,7 @@ const App = () => {
         <Header as='h2' >
           News Wire Network
           </Header>
-        <p>News from around the world</p>
+        <p>Top News Headlines from around the world</p>
         <NewsIndex />
       </Container>
     </>
